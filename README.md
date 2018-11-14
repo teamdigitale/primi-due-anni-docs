@@ -1,19 +1,11 @@
-# Starter kit per la pubblicazione su Docs Italia
+# I primi due anni del Team per la Trasformazione Digitale
 
+Questo repository contiene il resoconto dell’attività svolta dal Team per la Trasformazione Digitale dal 16 settembre 2016 al 30 settembre 2018, l’evoluzione della strategia per la trasformazione digitale della Pubblica Amministrazione tracciata dal Piano Triennale, nonché il ripensamento dei servizi pubblici digitali per i cittadini e le imprese.
 
-Questo repository contiene tutti i file necessari per pubblicare rapidamente un nuovo documento su Docs Italia. 
+Il documento include inoltre raccomandazioni dirette al Governo per la creazione di un modello permanente di governance del digitale - inclusa una revisione delle responsabilità e dei compiti assegnati ad AgID (Agenzia per l’Italia Digitale). 
 
-## Contenuto
+## Sito del Team
+[https://teamdigitale.governo.it/](https://teamdigitale.governo.it/)
 
-- Un repository di configurazione che dovrà essere nominato `italia-conf`
-- Un repository di documento
-
-## Istruzioni
-
-Alla prima creazione di un documento presso la propria organizzazione, è necessario creare due repository distinti:
-
-- un **repository di configurazione**, usando come modello i file contenuti nella cartella `repo-configurazione`;
-
-- un **repository del documento**, usando come modello i file contenuti nella cartella `repo-documento`. 
-
-Per i documenti successivi, basta modificare i file contenuti nel repository di configurazione e creare un nuovo repository per il nuovo documento.
+## Sito tematico Primi due anni del Team
+[https://teamdigitale.governo.it/it/report.htm](https://teamdigitale.governo.it/it/report.htm)
