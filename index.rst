@@ -1,5 +1,6 @@
-**I primi due anni del Team per la Trasformazione Digitale**
-==============================================================================
+========================================================
+I primi due anni del Team per la Trasformazione Digitale
+========================================================
 
 .. highlights::
    
@@ -7,32 +8,31 @@
 
    **Siamo solo al giorno 1!**
 
-   Aggiornato al 30 Settembre 2018
+Aggiornato al 30 Settembre 2018
 
    
 .. toctree::
    :maxdepth: 4
-   :caption: Indice:
+   :caption: Indice
    
-   _doc/00_premessa
-   _doc/01_contenuti
-   _doc/02_team
-   _doc/03_strategia
-   _doc/04_legge
-   _doc/05_progetti
-   _doc/06_io_italia
-   _doc/07_aiuti
-   _doc/08_attivita
-   _doc/09_raccomandazioni
+   00_premessa
+   01_contenuti
+   02_team
+   03_strategia
+   04_legge
+   05_progetti
+   06_io_italia
+   07_aiuti
+   08_attivita
+   09_raccomandazioni
 
    
-**Allegati**
-
 .. toctree::
    :maxdepth: 4
+   :caption: Allegati
      
-   _doc/A1_risorse
-   _doc/A2_numeri
+   A1_risorse
+   A2_numeri
    
 ..
 
