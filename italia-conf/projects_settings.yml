@@ -1,0 +1,13 @@
+projects:
+  - name: I primi due anni del Team per la Trasformazione Digitale
+    description: |
+      Il progetto contiene un documento di resoconto dell’attività svolta dal Team per la Trasformazione Digitale dal 16 settembre 2016 al 30 settembre 2018, l’evoluzione della strategia per la trasformazione digitale della Pubblica Amministrazione tracciata dal Piano Triennale, nonché il ripensamento dei servizi pubblici digitali per i cittadini e le imprese. Il documento include inoltre raccomandazioni dirette al Governo per la creazione di un modello permanente di governance del digitale - inclusa una revisione delle responsabilità e dei compiti assegnati ad AgID (Agenzia per l’Italia Digitale).
+    documents:
+      - primi-due-anni-docs
+    
+    short_name: P2ATeam
+    website: (https://teamdigitale.governo.it/)
+    tags:
+      - trasformazione digitale
+      - team 
+      - progetti 
