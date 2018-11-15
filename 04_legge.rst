@@ -13,7 +13,7 @@
 **Cosa abbiamo fatto**
 ----------------------
 
-Abbiamo collaborato con il Dipartimento per la Funzione Pubblica alla redazione del `D.Lgs 13 dicembre 2017 n. 217 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217!vig=>`_  di correzione al `Codice dell’Amministrazione Digitale <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/>`_ :
+Abbiamo collaborato con il Dipartimento per la Funzione Pubblica alla redazione del `D.Lgs 13 dicembre 2017 n. 217 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217!vig=>`_  di correzione al `Codice dell’Amministrazione Digitale <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/>`_:
 
 	➔ rendendo il CAD più neutrale rispetto alla tecnologia [11]_ e trasformando le regole tecniche in linee guida (adottate in maniera agile, all’esito di una consultazione pubblica online, e aggiornabili costantemente per non vincolare le scelte tecnologiche al rispetto di precetti normativi);
 

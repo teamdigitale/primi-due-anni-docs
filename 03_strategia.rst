@@ -21,7 +21,7 @@ L’attuale composizione del Team, snella e agile, va intesa come una prima vers
 **Cosa abbiamo fatto**
 ----------------------
 
-Abbiamo curato insieme ad AgID la stesura e la realizzazione del `Piano Triennale per la Trasformazione Digitale della Pubblica Amministrazione <https://pianotriennale-ict.italia.it/>`_  , il primo documento di indirizzo strategico approvato dal Presidente del Consiglio - `DPCM 31 maggio 2017 <http://www.gazzettaufficiale.it/eli/id/2017/07/15/17A04832/sg>`_ - con lo scopo di guidare la Pubblica Amministrazione in un percorso organico di trasformazione digitale. 
+Abbiamo curato insieme ad AgID la stesura e la realizzazione del `Piano Triennale per la Trasformazione Digitale della Pubblica Amministrazione <https://pianotriennale-ict.italia.it/>`_, il primo documento di indirizzo strategico approvato dal Presidente del Consiglio - `DPCM 31 maggio 2017 <http://www.gazzettaufficiale.it/eli/id/2017/07/15/17A04832/sg>`_ - con lo scopo di guidare la Pubblica Amministrazione in un percorso organico di trasformazione digitale. 
 
 Il Piano Triennale dovrà essere aggiornato a settembre di ogni anno e fissa gli assi portanti di questo processo di cambiamento, qui di seguito elencati:
 
@@ -31,13 +31,13 @@ Il Piano Triennale dovrà essere aggiornato a settembre di ogni anno e fissa gli
 
 	➔ la definizione di `linee guida minime di sicurezza <https://pianotriennale-ict.italia.it/sicurezza/>`_ per le infrastrutture tecnologiche della PA;
 
-	➔ l’adozione di `piattaforme abilitanti <https://pianotriennale-ict.italia.it/piattaforme-abilitanti/>`_  come l’identità digitale (`SPID <https://teamdigitale.governo.it/it/projects/identita-digitale.htm>`_ ), l’anagrafe nazionale (`ANPR <https://teamdigitale.governo.it/it/projects/anpr.htm>`_  ), la Carta d’Identità Elettronica ( `CIE <http://www.cartaidentita.interno.gov.it/>`_ ) e la piattaforma di pagamenti digitali ( `pagoPA <https://teamdigitale.governo.it/it/projects/pagamenti-digitali.htm>`_ ) per semplificare l’interazione del cittadino con la Pubblica Amministrazione;
+	➔ l’adozione di `piattaforme abilitanti <https://pianotriennale-ict.italia.it/piattaforme-abilitanti/>`_  come l’identità digitale (`SPID <https://teamdigitale.governo.it/it/projects/identita-digitale.htm>`_), l’anagrafe nazionale (`ANPR <https://teamdigitale.governo.it/it/projects/anpr.htm>`_), la Carta d’Identità Elettronica (`CIE <http://www.cartaidentita.interno.gov.it/>`_) e la piattaforma di pagamenti digitali (`pagoPA <https://teamdigitale.governo.it/it/projects/pagamenti-digitali.htm>`_) per semplificare l’interazione del cittadino con la Pubblica Amministrazione;
 
 	➔ lo sviluppo di `regole di interoperabilità <https://pianotriennale-ict.italia.it/interoperabilita/>`_ chiaramente definite e basate su API (*Application Programming Interface*) per permettere ai sistemi di comunicare tra loro;
 
 	➔ la valorizzazione dell' `open source <https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/stabile/doc/07_strumenti-per-la-generazione-e-la-diffusione-di-servizi-digitali.html>`_  come metodo di sviluppo collaborativo dei servizi pubblici digitali, più efficiente e meno costoso, e la creazione di strumenti dedicati - le piattaforme `Developers Italia <https://developers.italia.it/>`_  e `Designers Italia <https://designers.italia.it/>`_ , linee guida, esempi e kit di sviluppo open source e di design di facile e rapida implementazione - per permettere a sviluppatori, designer e fornitori di tecnologia di contribuire all’evoluzione dei servizi pubblici digitali, aiutando le amministrazioni a offrire un’esperienza utente moderna, coerente e semplice per tutti i cittadini;
 
-	➔ la valorizzazione dei `dati pubblici <https://pianotriennale-ict.italia.it/dati/>`_  attraverso la creazione di una piattaforma di analisi di *big data* dotata di strumenti moderni di *data science e machine learning* ( `Data & Analytics Framework  <https://pianotriennale-ict.italia.it/daf/>`_ - `Piattaforma Digitale Nazionale Dati <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo5_sezione1_art50-ter.html>`_ );
+	➔ la valorizzazione dei `dati pubblici <https://pianotriennale-ict.italia.it/dati/>`_  attraverso la creazione di una piattaforma di analisi di *big data* dotata di strumenti moderni di *data science e machine learning* (`Data & Analytics Framework  <https://pianotriennale-ict.italia.it/daf/>`_ - `Piattaforma Digitale Nazionale Dati <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo5_sezione1_art50-ter.html>`_);
 
 	➔ la `razionalizzazione <https://pianotriennale-ict.italia.it/razionalizzazione-della-spesa/>`_  e riqualificazione della spesa ICT verso soluzioni tecnologiche moderne;
 

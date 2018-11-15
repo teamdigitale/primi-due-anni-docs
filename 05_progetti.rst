@@ -100,7 +100,7 @@ Con ANPR, avendo a disposizione una fonte unica e certa per i dati dei cittadini
 
 **Ad esempio, grazie ad ANPR la sola gestione del cambio di residenza porterà a un risparmio pari a 3.5 milioni di ore di lavoro dei dipendenti pubblici che potranno essere impiegate in attività a maggiore valore aggiunto.**
 
-ANPR è un passo essenziale per rendere possibili successive innovazioni. Già oggi ANPR consente ai cittadini di ottenere vantaggi immediati quali la richiesta di certificati anagrafici presso tutti i comuni, (non solo quello di residenza), un cambio di residenza più semplice ed immediato ed a breve la possibilità di ottenere certificati da un portale unico e, in futuro, attraverso la app mobile sviluppata all’interno del progetto `io.italia.it <https://io.italia.it/>`_ .
+ANPR è un passo essenziale per rendere possibili successive innovazioni. Già oggi ANPR consente ai cittadini di ottenere vantaggi immediati quali la richiesta di certificati anagrafici presso tutti i comuni, (non solo quello di residenza), un cambio di residenza più semplice ed immediato ed a breve la possibilità di ottenere certificati da un portale unico e, in futuro, attraverso la app mobile sviluppata all’interno del progetto `io.italia.it <https://io.italia.it/>`_.
 
 **La migrazione dei dati anagrafici da tutti i Comuni ad ANPR avrebbe dovuto completarsi, secondo la legge, entro il 31 dicembre 2014 ma, ad Ottobre 2016, solo un comune era subentrato in ANPR.**
 
@@ -115,7 +115,7 @@ Abbiamo attuato una revisione dei processi, del piano di lavoro e concordato l�
 
 Abbiamo creato uno strumento per la pianificazione del lavoro tecnico e di bonifica dei dati anagrafici (piattaforma per la pianificazione dei subentri), e creato **dashboard pubbliche** con lo stato di avanzamento e le previsioni. Abbiamo inoltre collaborato con il Dipartimento della Funzione Pubblica alla **pubblicazione di un bando** che prevede un contributo economico - fondi europei del PON Governance - per gli enti locali che subentreranno in ANPR.
 
-Le diverse modalità di gestione operativa e tecnica hanno determinato il rilancio di ANPR. Dalla migrazione di 13 comuni all’agosto 2017, a più di 5 anni dalla legge, si è passati a `715 comuni <https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53>`_ , pari ad una popolazione di `9.8 milioni <https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53>`_  di persone, inclusi il comune di Milano e Torino entrati in ANPR nel mese di luglio 2018. Inoltre `1737 comuni <https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53>`_ , pari ad una popolazione di `10.7 milioni <https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53>`_  di persone, sono attualmente in fase di test per il subentro [16]_ . Ormai siamo ad una media di 9 comuni al giorno e l’obiettivo di avere in ANPR l’80% dei dati della popolazione italiana entro il 31/12/2019 è realistico.
+Le diverse modalità di gestione operativa e tecnica hanno determinato il rilancio di ANPR. Dalla migrazione di 13 comuni all’agosto 2017, a più di 5 anni dalla legge, si è passati a `715 comuni <https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53>`_, pari ad una popolazione di `9.8 milioni <https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53>`_  di persone, inclusi il comune di Milano e Torino entrati in ANPR nel mese di luglio 2018. Inoltre `1737 comuni <https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53>`_, pari ad una popolazione di `10.7 milioni <https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53>`_  di persone, sono attualmente in fase di test per il subentro [16]_ . Ormai siamo ad una media di 9 comuni al giorno e l’obiettivo di avere in ANPR l’80% dei dati della popolazione italiana entro il 31/12/2019 è realistico.
 
 ..
 
@@ -208,6 +208,20 @@ Per quello che riguarda gli enti effettivi aderenti a pagoPA, ovvero quelli che 
       
 ..
 
+      .. figure:: _image/andamento_valore_PagoPA.png	
+         :alt: anadamento annuale valore PagoPA	
+               	
+         Andamento annuale valore transazioni (milioni di €) su pagoPA. Dati aggiornati al 30 settembre 2018.	
+      	
+..	
+
+      .. figure:: _image/andamento_6M_valore_PagoPA.png	
+         :alt: andamento semestrale valore PagoPA	
+               	
+         Andamento semestrale valore transazioni (milioni di €) su pagoPA. Dati aggiornati al 30 settembre 2018.
+
+..
+
 **Cosa c'è da fare**
 --------------------
 
@@ -226,7 +240,7 @@ Più specificatamente suggeriamo di valutare il seguente approccio:
 **Nota bene: adottare pagoPA significa attivare la piattaforma dei pagamenti all’interno dei propri sistemi secondo le linee guida stabilite e smettere di accettare transazioni di pagamento con altri sistemi, e non semplicemente firmare la convenzione (come invece si limitava a fare AgID)** [22]_ .
 
 ..
-
+	
       .. figure:: _image/interfaccia_pagoPA.png
          :alt: interfaccia utente PagoPA
                
@@ -311,6 +325,13 @@ Siamo intervenuti su SPID con la costituzione di una governance più chiara, anc
 
 ..
 
+      .. figure:: _image/andamento_SPID.png
+         :alt: andamento SPID rilasciate
+               
+         Andamento totale identità SPID rilasciate. `Link a grafici SPID <https://teamdigitale.governo.it/it/projects/identita-digitale.htm>`_ – Dati aggiornati al 30 settembre 2018.
+		       
+..
+
 **CIE**
 ~~~~~~~
 
@@ -320,13 +341,6 @@ Mentre non siamo entrati nella gestione operativa, il nostro ruolo è stato di s
 
 Stiamo inoltre migliorando l’esperienza del cittadino nella fase di prenotazione dell’appuntamento per il rilascio della CIE (Agenda CIE) che in questo momento è l’anello debole della catena: i tempi di attesa variano da pochi giorni a diverse settimane, e dipendono da criticità di riorganizzazione interna dei comuni per far fronte alle richieste (si legge infatti spesso sui media dei lunghi periodi di attesa per l’appuntamento in numerosi comuni).
 
-..
-
-      .. figure:: _image/andamento_SPID.png
-         :alt: andamento SPID rilasciate
-               
-         Andamento totale identità SPID rilasciate. `Link a grafici SPID <https://teamdigitale.governo.it/it/projects/identita-digitale.htm>`_ – Dati aggiornati al 30 settembre 2018.
-		       
 ..
 
       .. figure:: _image/andamento_CIE.png
@@ -386,13 +400,13 @@ La trasformazione digitale richiede un radicale cambiamento nel modo in cui la P
 
 **Le amministrazioni sono strutturate secondo un approccio organizzativo a silos, dove prevalgono i personalismi rispetto ad approcci collaborativi. Ne consegue una frequente mancanza di condivisione di informazioni non solo tra dipendenti pubblici di amministrazioni diverse, ma anche tra uffici diversi di uno stesso ente.**
 
-Mentre non siamo certamente in grado di risolvere l’aspetto soggettivo del problema (personalismo), abbiamo cominciato a introdurre gradualmente strumenti di comunicazione e condivisione che facilitano un coinvolgimento attivo non solo dei funzionari pubblici, ma anche dei fornitori di tecnologia e dei cittadini nell’esecuzione della trasformazione digitale e, più in particolare, nel miglioramento dei contenuti del `Piano Triennale <https://pianotriennale-ict.italia.it/>`_ .
+Mentre non siamo certamente in grado di risolvere l’aspetto soggettivo del problema (personalismo), abbiamo cominciato a introdurre gradualmente strumenti di comunicazione e condivisione che facilitano un coinvolgimento attivo non solo dei funzionari pubblici, ma anche dei fornitori di tecnologia e dei cittadini nell’esecuzione della trasformazione digitale e, più in particolare, nel miglioramento dei contenuti del `Piano Triennale <https://pianotriennale-ict.italia.it/>`_.
 
 **L’implementazione di un approccio Open Government passa dalla creazione di meccanismi e processi efficaci, e non da convegni e dalla creazione di siti open data spesso inutili e non aggiornati.**
 
 Nell’ambito della creazione di soluzioni tecnologiche per lo sviluppo di servizi pubblici digitali, un approccio open passa dall’adozione di standard e dallo sviluppo di software aperti, e dal rilascio di API documentate pubblicamente, intorno alle quali poter coinvolgere attivamente una comunità di sviluppatori e fornitori di tecnologia che crei innovazione.
 
-Grazie a questo approccio, basato sull’open source, è possibile creare un patrimonio pubblico di software riutilizzato tra più amministrazioni, e attuare le previsioni degli art. `68 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo6_art68.html>`_  e `69 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo6_art69.html>`_  del `Codice dell’Amministrazione Digitale <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/>`_ , che rendono il riuso di soluzioni software obbligatorio; obbligo finora puntualmente disatteso anche perché le amministrazioni non avevano gli strumenti adatti per farlo. Questo ha determinato da una parte un ingente spreco di risorse e dall’altra la mancanza di una reale innovazione; ne ha conseguito che a fronte di una spesa ICT di 5,6 miliardi per anno l’impatto reale sul cambiamento dello status quo è stato molto basso . Solo a livello centrale la spesa in nuovi progetti software, che non tiene quindi conto di software open source o del riuso di software precedentemente sviluppato, ammonta a circa €621 milioni [26]_ .
+Grazie a questo approccio, basato sull’open source, è possibile creare un patrimonio pubblico di software riutilizzato tra più amministrazioni, e attuare le previsioni degli art. `68 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo6_art68.html>`_  e `69 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo6_art69.html>`_  del `Codice dell’Amministrazione Digitale <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/>`_, che rendono il riuso di soluzioni software obbligatorio; obbligo finora puntualmente disatteso anche perché le amministrazioni non avevano gli strumenti adatti per farlo. Questo ha determinato da una parte un ingente spreco di risorse e dall’altra la mancanza di una reale innovazione; ne ha conseguito che a fronte di una spesa ICT di 5,6 miliardi per anno l’impatto reale sul cambiamento dello status quo è stato molto basso . Solo a livello centrale la spesa in nuovi progetti software, che non tiene quindi conto di software open source o del riuso di software precedentemente sviluppato, ammonta a circa €621 milioni [26]_ .
 
 **Per aiutare la Pubblica Amministrazione a non pagare più volte lo stesso software, stiamo creando gli strumenti per il riuso.**
 
@@ -405,17 +419,17 @@ Grazie a questo approccio, basato sull’open source, è possibile creare un pat
 
 Abbiamo creato due strumenti di comunicazione, dialogo, confronto e trasparenza per i cittadini, i funzionari pubblici e i fornitori di tecnologia:
 
-	➔ `Docs Italia <https://docs.developers.italia.it/>`_ , che con l’ausilio di un team dedicato di scrittori tecnici (tech writers) raccoglie e mette a disposizione la documentazione tecnica dei servizi pubblici digitali in un punto unico e permette di condividere i documenti in consultazione pubblica [27]_ , di raccogliere contributi e suggerimenti, di aggiornare la documentazione e tenere traccia delle successive evoluzioni;
+	➔ `Docs Italia <https://docs.developers.italia.it/>`_, che con l’ausilio di un team dedicato di scrittori tecnici (tech writers) raccoglie e mette a disposizione la documentazione tecnica dei servizi pubblici digitali in un punto unico e permette di condividere i documenti in consultazione pubblica [27]_ , di raccogliere contributi e suggerimenti, di aggiornare la documentazione e tenere traccia delle successive evoluzioni;
 
-	➔ `Forum Italia <https://forum.italia.it/>`_ , la piattaforma dove cittadini, dipendenti pubblici e fornitori di tecnologia possono confrontarsi su diversi temi della trasformazione digitale, condividere informazioni, chiedere e fornire suggerimenti e contribuire con nuove idee.
+	➔ `Forum Italia <https://forum.italia.it/>`_, la piattaforma dove cittadini, dipendenti pubblici e fornitori di tecnologia possono confrontarsi su diversi temi della trasformazione digitale, condividere informazioni, chiedere e fornire suggerimenti e contribuire con nuove idee.
 
-Abbiamo rilasciato su Docs Italia in consultazione pubblica `14 Linee Guida <https://forum.italia.it/c/documenti-in-consultazione?order=posts>`_ , che hanno generato più di 300 commenti e suggerimenti di modifica al testo da parte di cittadini, funzionari pubblici e fornitori di tecnologia. Su Forum Italia si sono iscritti circa 2500 utenti, che hanno avviato discussioni su più di 1200 argomenti, con una media di 11 messaggi ad argomento [28]_ .
+Abbiamo rilasciato su Docs Italia in consultazione pubblica `14 Linee Guida <https://forum.italia.it/c/documenti-in-consultazione?order=posts>`_, che hanno generato più di 300 commenti e suggerimenti di modifica al testo da parte di cittadini, funzionari pubblici e fornitori di tecnologia. Su Forum Italia si sono iscritti circa 2500 utenti, che hanno avviato discussioni su più di 1200 argomenti, con una media di 11 messaggi ad argomento [28]_ .
 
-Abbiamo inoltre creato `Developers Italia <https://developers.italia.it/>`_ e `Designers Italia <https://designers.italia.it/>`_ , le piattaforme di community per lo sviluppo e il design dei servizi pubblici digitali.
+Abbiamo inoltre creato `Developers Italia <https://developers.italia.it/>`_ e `Designers Italia <https://designers.italia.it/>`_, le piattaforme di community per lo sviluppo e il design dei servizi pubblici digitali.
 
 Le piattaforme mettono a disposizione documentazione tecnica, linee guida, kit di sviluppo e di design, metodologie di lavoro, ambienti di test, API e un issue tracking system per permettere di contribuire attivamente allo sviluppo delle tecnologie abilitanti del sistema operativo del Paese e di servizi pubblici digitali da parte degli sviluppatori, dei designer e dei fornitori di tecnologia (SPID,pagoPA, ANPR, ecc).
 
-Abbiamo inoltre pubblicato su `Developers Italia <https://developers.italia.it/>`_  9 progetti (Spid, pagoPA, ANPR, ...). Questo ha permesso di coinvolgere più di 800 sviluppatori ( `Hack.Developers <https://hack.developers.italia.it/>`_ ) per contribuire all’evoluzione del relativo codice sorgente: sono stati aperti 190 repositories e apportate più di 2765 contribuzioni, tra bug fixing, enhancements e new features, al codice dei progetti pubblicati.
+Abbiamo inoltre pubblicato su `Developers Italia <https://developers.italia.it/>`_  9 progetti (Spid, pagoPA, ANPR, ...). Questo ha permesso di coinvolgere più di 800 sviluppatori (`Hack.Developers <https://hack.developers.italia.it/>`_) per contribuire all’evoluzione del relativo codice sorgente: sono stati aperti 190 repositories e apportate più di 2765 contribuzioni, tra bug fixing, enhancements e new features, al codice dei progetti pubblicati.
 
 Si è inoltre conclusa la fase di consultazione per le `linee guida sull’open source <https://lg-acquisizione-e-riuso-software-per-la-pa.readthedocs.io/it/latest/>`_ che le PA dovranno adottare per adempiere a quanto già prevede la legge. Le linee guida contengono chiari esempi, schemi decisionali e allegati tecnici pronti all’uso, con l’obiettivo di creare un patrimonio condiviso di software.
 
@@ -475,21 +489,21 @@ Per lo stesso motivo, è stata avviata la creazione di un catalogo del software 
 
 **L’interoperabilità è la capacità delle applicazioni software di interagire tra loro mettendo in atto procedure coordinate e condivise tra le varie piattaforme, ed è condizione necessaria per l’attuazione del principio** `once-only <https://ec.europa.eu/digital-single-market/en/news/once-only-principle-toop-project-launched-january-2017>`_ **previsto dall’** `eGovernment Action Plan 2016-2020 <https://ec.europa.eu/digital-single-market/en/news/communication-eu-egovernment-action-plan-2016-2020-accelerating-digital-transformation>`_ **- l’Ue stima un risparmio annuo a livello europeo di € 5 miliardi che potrebbe venire solo dall’implementazione di questo principio** [29]_ . **Tutto ciò è necessario per realizzare la visione nota anche come** `Government as a Platform <https://www.accenture.com/us-en/insights/public-service/government-as-a-platform>`_ .
 
-La legislazione italiana prevede già, all’interno del `Codice dell’Amministrazione Digitale <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/>`_ , la possibilità di interconnettere le piattaforme tecnologiche della Pubblica Amministrazione, e il `Piano Triennale <https://pianotriennale-ict.italia.it/>`_  [30]_ affronta il tema nello specifico capitolo sull’Interoperabilità dove si indica la necessità di un nuovo modello di cooperazione applicativa basato su API, che superi il modello attualmente in vigore.
-Tale modello, chiamato `SPCoop <https://www.agid.gov.it/it/infrastrutture/sistema-pubblico-connettivita/connettivita>`_ , fu definito dal CNIPA (oggi AgID) tra il 2005 e il 2008, richiede processi di integrazione complessi e costosi che non considerano le interazioni con i privati, e soffre di una impostazione concettuale obsoleta
+La legislazione italiana prevede già, all’interno del `Codice dell’Amministrazione Digitale <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/>`_, la possibilità di interconnettere le piattaforme tecnologiche della Pubblica Amministrazione, e il `Piano Triennale <https://pianotriennale-ict.italia.it/>`_  [30]_ affronta il tema nello specifico capitolo sull’Interoperabilità dove si indica la necessità di un nuovo modello di cooperazione applicativa basato su API, che superi il modello attualmente in vigore.
+Tale modello, chiamato `SPCoop <https://www.agid.gov.it/it/infrastrutture/sistema-pubblico-connettivita/connettivita>`_, fu definito dal CNIPA (oggi AgID) tra il 2005 e il 2008, richiede processi di integrazione complessi e costosi che non considerano le interazioni con i privati, e soffre di una impostazione concettuale obsoleta
 
 La conseguenza di questa impostazione rigida ha portato a uno sviluppo molto limitato della interoperabilità nella pubblica amministrazione e una pressoché assente integrazione con i privati. 
 
-Nel tempo diversi enti locali hanno deciso di utilizzare modelli alternativi. Una delle esperienze più significative è quella di `E015 <http://www.e015.regione.lombardia.it/>`_ , attuata nella Regione Lombardia per interconnettere gli enti e i fornitori di Expo 2015.
+Nel tempo diversi enti locali hanno deciso di utilizzare modelli alternativi. Una delle esperienze più significative è quella di `E015 <http://www.e015.regione.lombardia.it/>`_, attuata nella Regione Lombardia per interconnettere gli enti e i fornitori di Expo 2015.
 
 ..
 
 **Cosa abbiamo fatto**
 ----------------------
 
-Abbiamo lavorato con AgID alla scrittura delle nuove regole di interoperabilità e i primi due capitoli del nuovo modello sono già stati messi in `consultazione pubblica <https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/stabile/>`_ ; ci stiamo concentrando sul completamento del modello nonché sulla definizione dei requisiti per la costruzione di un catalogo nazionale delle API che possa essere utilizzato dalle PA e dai privati per ottenere facilmente accesso alle funzionalità messe a disposizione.
+Abbiamo lavorato con AgID alla scrittura delle nuove regole di interoperabilità e i primi due capitoli del nuovo modello sono già stati messi in `consultazione pubblica <https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/stabile/>`_; ci stiamo concentrando sul completamento del modello nonché sulla definizione dei requisiti per la costruzione di un catalogo nazionale delle API che possa essere utilizzato dalle PA e dai privati per ottenere facilmente accesso alle funzionalità messe a disposizione.
 
-Nel frattempo abbiamo lavorato con alcune PA per preparare una selezione di API già allineate al nuovo modello che, in previsione della creazione del Catalogo delle API, `sono state pubblicate <https://developers.italia.it/it/api/>`_ all’interno del sito `Developers Italia <https://developers.italia.it/>`_ .
+Nel frattempo abbiamo lavorato con alcune PA per preparare una selezione di API già allineate al nuovo modello che, in previsione della creazione del Catalogo delle API, `sono state pubblicate <https://developers.italia.it/it/api/>`_ all’interno del sito `Developers Italia <https://developers.italia.it/>`_.
 
 ..
 
@@ -498,7 +512,7 @@ Nel frattempo abbiamo lavorato con alcune PA per preparare una selezione di API 
 
 Le esperienze di E015 e di altri stati europei dimostrano che **l’adozione del modello di API e soprattutto la sua evoluzione continua, richiedono una forte struttura di governance che permetta l’accompagnamento delle amministrazioni e il continuo aggiornamento delle regole tecniche.**
 
-Ad esempio, lo standard di interoperabilità `X-Road utilizzato in Estonia <https://e-estonia.com/solutions/interoperability-services/x-road/>`_ , diventato operativo nel 2001, è oggi in produzione con la versione 6 e subisce aggiornamenti continui con cadenza quasi mensile. L’Estonia, un paese con solo 1,3 milioni di abitanti e una architettura istituzionale semplice, ha una `Autorità per il Sistema Informativo Estone <https://www.ria.ee/en.html>`_ che conta 130 persone, all’interno del quale si trova un team di 14 persone dedicate al modello di interoperabilità X-Road.
+Ad esempio, lo standard di interoperabilità `X-Road utilizzato in Estonia <https://e-estonia.com/solutions/interoperability-services/x-road/>`_, diventato operativo nel 2001, è oggi in produzione con la versione 6 e subisce aggiornamenti continui con cadenza quasi mensile. L’Estonia, un paese con solo 1,3 milioni di abitanti e una architettura istituzionale semplice, ha una `Autorità per il Sistema Informativo Estone <https://www.ria.ee/en.html>`_ che conta 130 persone, all’interno del quale si trova un team di 14 persone dedicate al modello di interoperabilità X-Road.
 
 **Prendendo a riferimento l’esperienza di E015, stimiamo che l’interoperabilità dovrebbe essere responsabilità di un team composto di almeno 10 persone con competenze prettamente tecniche, tra cui project management e sviluppo di micro-servizi, all’interno del Dipartimento per la Trasformazione Digitale della Presidenza del Consiglio (vedi sezione** :doc:`09_raccomandazioni` **), nonché 20 persone in supporto alle amministrazioni locali sul territorio.**
 
@@ -516,6 +530,7 @@ Ad esempio, lo standard di interoperabilità `X-Road utilizzato in Estonia <http
 .. _DAF:
 
 **Piattaforma Digitale Nazionale Dati**: gli strumenti per l’utilizzo dei dati della PA (Data & Analytics Framework)
+====================================================================================================================
 
 **Contesto**
 ------------
