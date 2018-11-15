@@ -440,28 +440,28 @@ Per lo stesso motivo, è stata avviata la creazione di un catalogo del software 
       .. figure:: _image/docs_italia.png
          :alt: sito di docs italia
                
-         Sito di `Docs Italia <https://docs.italia.it>`_.
+         Docs Italia
 		       
 ..
 
       .. figure:: _image/forum_italia.png
          :alt: sito di forum italia
                
-         Sito di `Forum Italia <https://forum.italia.it>`_.
+         Forum Italia
       
 ..
 
       .. figure:: _image/developers.png
          :alt: sito di developers italia
                
-         Sito di `Developers Italia <https://developers.italia.it>`_.
+         Developers Italia
       
 ..
 
       .. figure:: _image/designers.png
          :alt: sito di designers italia
                
-         Sito di `Designers Italia <https://designers.italia.it>`_.
+         Designers Italia
 		 
 
 ..
@@ -523,7 +523,7 @@ Ad esempio, lo standard di interoperabilità `X-Road utilizzato in Estonia <http
       .. figure:: _image/developers_API.png
          :alt: API su Developers
                
-         Nuova pagina dedicata alle API su `Developers Italia <https://developers.italia.it>`_.
+         Nuova pagina dedicata alle API su Developers Italia
 
 		       
 ..
