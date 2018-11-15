@@ -82,7 +82,7 @@ In :doc:`A1_risorse` l’elenco delle attività attualmente in capo ad AgID e/o 
 
 	➔ razionalizzare l’uso dei fondi europei dedicati alla trasformazione digitale, ed intensificare l’uso di questi in forma di contributo per gli enti centrali e locali per il raggiungimento dei risultati specifici previsti dal Piano Triennale, così come fatto per ANPR. È necessario concentrarsi su come i soldi vengono spesi, e non sulla necessità di dimostrare la capacità di esaurire i fondi a disposizione indipendentemente dalla effettiva necessità di spesa;
 
-	➔ **introdurre un sistema di benefici e incentivi economici per le amministrazioni che adottano e i cittadini che usano i processi digitali invece di quelli analogici** [41]_ 
+	➔ **introdurre un sistema di benefici e incentivi economici per le amministrazioni che adottano e i cittadini che usano i processi digitali invece di quelli analogici** [41]_ ;
 
 	➔ **sanzionare e/o ridurre i finanziamenti alle amministrazioni che non attuano la trasformazione digitale**, in particolare l’utilizzo delle piattaforme abilitanti. Utilizzare non significa limitarsi alla “firma della convenzione” ma attivare il servizio all’interno dei propri sistemi secondo le linee guida stabilite.
 	
@@ -126,7 +126,7 @@ All’origine di queste problematiche, si riscontrano frequentemente le seguenti
 
 	6. *assenza di un sistema di valutazione* dei fornitori da parte delle PA e dei servizi resi che permetta la creazione di una *knowledge* base di casi utili per poter operare in maniera informata sulle base delle scelte fatte in passato;
 
-	7. *uso di costi unitari fuorvianti* legati a metriche di misurazione del software (ad esempio “function point”) che misurano aspetti non rappresentativi dell’effettiva qualità del servizio e del software, in particolare per quanto riguarda i requisiti non funzionali (ad esempio facilità d’uso per l’utente) e contribuiscono ulteriormente a sbilanciare la valutazione nella direzione del ribasso economico. Dobbiamo passare dalla valutazione dell’output alla valutazione dell’outcome [44]_ ;
+	7. *uso di costi unitari fuorvianti* legati a metriche di misurazione del software (ad esempio “function point”) che misurano aspetti non rappresentativi dell’effettiva qualità del servizio e del software, in particolare per quanto riguarda i requisiti non funzionali (ad esempio facilità d’uso per l’utente) e contribuiscono ulteriormente a sbilanciare la valutazione nella direzione del ribasso economico. Dobbiamo passare dalla valutazione dell’output alla valutazione dell’outcome [44]_;
 
 	8. *difficoltà di intervento su gare che hanno avuto esiti imprevisti e non soddisfacenti,* tra cui per esempio prezzo e qualità della fornitura non più in linea con i livelli e gli standard di mercato. Spesso i prezzi della tecnologia diminuiscono nel tempo e la qualità standard aumenta, mentre le pubbliche amministrazioni devono pagare i prezzi più alti e tollerare livelli di qualità inferiori aggiudicati in base agli standard di anni addietro.
 

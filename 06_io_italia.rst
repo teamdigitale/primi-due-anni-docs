@@ -8,7 +8,7 @@ Una struttura centrale non può ridisegnare tutti i servizi pubblici digitali ch
 
 **Abbiamo tuttavia deciso di non focalizzarci unicamente su piattaforme abilitanti e linee guida, ma di impegnarci direttamente sulla (ri)progettazione di un numero limitato di servizi pubblici digitali che per loro utilità e frequenza d’uso hanno importanti ricadute nella vita di cittadini e imprese (servizi flagship).**
 
-Questa attività può rappresentare un punto di riferimento e una guida per le amministrazioni nella progettazione autonoma dei propri servizi attraverso l’implementazione delle indicazioni previste dal `Piano Triennale <https://pianotriennale-ict.italia.it/>`_ (in particolare nei capitoli dedicati allo sviluppo di `servizi <https://pianotriennale-ict.italia.it/servizi-digitali/>`_  e `progetti digitali <https://pianotriennale-ict.italia.it/principi-per-lo-sviluppo-di-progetti-digitali/>`_ ) e l’integrazione delle componenti fondamentali del sistema operativo del Paese sopra descritte.
+Questa attività può rappresentare un punto di riferimento e una guida per le amministrazioni nella progettazione autonoma dei propri servizi attraverso l’implementazione delle indicazioni previste dal `Piano Triennale <https://pianotriennale-ict.italia.it/>`_ (in particolare nei capitoli dedicati allo sviluppo di `servizi <https://pianotriennale-ict.italia.it/servizi-digitali/>`_  e `progetti digitali <https://pianotriennale-ict.italia.it/principi-per-lo-sviluppo-di-progetti-digitali/>`_) e l’integrazione delle componenti fondamentali del sistema operativo del Paese sopra descritte.
 
 ..
 
@@ -17,7 +17,7 @@ Questa attività può rappresentare un punto di riferimento e una guida per le a
 
 **L’innovazione principale introdotta dal Team Digitale non risiede solo nel contenuto dei progetti, ma anche nell’approccio metodologico impiegato. In questi mesi, infatti, il Team ha introdotto le metodologie dello human centered design e del design thinking, spingendo sulla necessità di analizzare i reali bisogni degli utenti, definendo degli indicatori chiari per misurare l’efficacia del prodotto/servizio in questione, adottando un processo di design iterativo e misurando gli impatti effettivi sulla vita di chi li usa.**
 
-Le metodologie introdotte e contenute nelle `Linee Guida di design <https://designers.italia.it/guide/>`_ per i servizi e i siti della PA assicurano inoltre che le interfacce, i servizi e contenuti progettati siano usabili e `pienamente accessibili <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/service-design/accessibilita.html>`_ , per migliorare l’esperienza dei cittadini.
+Le metodologie introdotte e contenute nelle `Linee Guida di design <https://designers.italia.it/guide/>`_ per i servizi e i siti della PA assicurano inoltre che le interfacce, i servizi e contenuti progettati siano usabili e `pienamente accessibili <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/service-design/accessibilita.html>`_, per migliorare l’esperienza dei cittadini.
 
 Tenendo come riferimento questo approccio, ci siamo concentrati sulla progettazione dei seguenti servizi:
 
@@ -40,7 +40,7 @@ L’applicazione sarà il prodotto principale dell’integrazione delle componen
 
 Questo progetto richiederà una collaborazione senza precedenti tra le pubbliche amministrazioni e il risultato positivo permetterà all’Italia di compiere un grande salto in avanti nel processo di trasformazione digitale della Pubblica Amministrazione.
 
-L’esecuzione di questo progetto necessita della costituzione di un team dedicato composto da circa 30 persone che abbiano competenze di sviluppo, di infrastruttura, di design e di gestione dei processi operativi, all’interno del Dipartimento per la Trasformazione Digitale della Presidenza del Consiglio (vedi sezione :doc:`09_raccomandazioni` ) , nonché 90 persone in supporto alle amministrazioni locali sul territorio per l’esecuzione del programma.
+L’esecuzione di questo progetto necessita della costituzione di un team dedicato composto da circa 30 persone che abbiano competenze di sviluppo, di infrastruttura, di design e di gestione dei processi operativi, all’interno del Dipartimento per la Trasformazione Digitale della Presidenza del Consiglio (vedi sezione :doc:`09_raccomandazioni`), nonché 90 persone in supporto alle amministrazioni locali sul territorio per l’esecuzione del programma.
 
 ..
 
@@ -81,14 +81,14 @@ In collaborazione con l’Istituto Poligrafico e Zecca dello Stato stiamo ridise
       .. figure:: _image/appunt_cie.png
          :alt: appuntamento CIE
                
-         Mockup del nuovo flusso di prenotazione online per il rilascio o rinnovo della CIE, all’interno del servizio Agenda di appuntamenti per la Carta di Identità Elettronica..
+         Mockup del nuovo flusso di prenotazione online per il rilascio o rinnovo della CIE, all’interno del servizio Agenda di appuntamenti per la Carta di Identità Elettronica.
       
 ..
 
 
 **Sito ANPR per il cittadino**
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-In collaborazione con il Ministero dell’Interno e Sogei stiamo sviluppando il nuovo sito di `ANPR <https://teamdigitale.governo.it/it/projects/anpr.htm>`_ . Un punto di accesso dotato di una esperienza utente moderna che permetta di descrivere alle pubbliche amministrazioni il progetto e ai cittadini di poter ottenere direttamente dalla piattaforma il proprio certificato anagrafico avente valore legale.
+In collaborazione con il Ministero dell’Interno e Sogei stiamo sviluppando il nuovo sito di `ANPR <https://teamdigitale.governo.it/it/projects/anpr.htm>`_. Un punto di accesso dotato di una esperienza utente moderna che permetta di descrivere alle pubbliche amministrazioni il progetto e ai cittadini di poter ottenere direttamente dalla piattaforma il proprio certificato anagrafico avente valore legale.
 
 ..
 
@@ -108,7 +108,7 @@ In collaborazione con il Ministero dell’Istruzione, Università e Ricerca stia
 **Cosa c'è da fare**
 --------------------
 
-Creare un modello organizzativo scalabile che permetta il ripensamento e la riprogettazione nel corso del tempo di tutti i servizi pubblici (vedi sezione :doc:`09_raccomandazioni` ) .
+Creare un modello organizzativo scalabile che permetta il ripensamento e la riprogettazione nel corso del tempo di tutti i servizi pubblici (vedi sezione :doc:`09_raccomandazioni`).
 
 ..
 
