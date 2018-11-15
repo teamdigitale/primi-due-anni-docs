@@ -1,8 +1,9 @@
 **Allegato A: Risorse necessarie per la continuazione delle attività di Trasformazione Digitale**
 ==============================================================================================================
+
 Rappresentiamo in questo allegato due tabelle contenenti le nostre proposte riguardanti le risorse necessarie per la continuazione delle attività (le stime del personale necessario per le singole attività sono da considerarsi puramente indicative e necessitano un approfondimento dettagliato).
 
-	➔ La prima tabella indica per ogni singola attività progettuale le risorse da assegnare inizialmente al Team per la Trasformazione Digitale e in seguito al Dipartimento per la Trasformazione Digitale presso la Presidenza del Consiglio dei Ministri (così come descritto nella sezione Raccomandazioni per il Governo), le risorse da assegnare all’amministrazione centrale coinvolta nella gestione di uno specifico progetto, e le risorse da assegnare alle amministrazioni locali per il supporto all’esecuzione dei progetti sul territorio;
+	➔ La prima tabella indica per ogni singola attività progettuale le risorse da assegnare inizialmente al Team per la Trasformazione Digitale e in seguito al Dipartimento per la Trasformazione Digitale presso la Presidenza del Consiglio dei Ministri (così come descritto nella sezione :doc:`09_raccomandazioni`), le risorse da assegnare all’amministrazione centrale coinvolta nella gestione di uno specifico progetto, e le risorse da assegnare alle amministrazioni locali per il supporto all’esecuzione dei progetti sul territorio;
 
 	➔ La seconda tabella indica le attività e i compiti previsti dal CAD che rimangono in capo ad AgID o riassegnati ad altra amministrazione.
 
@@ -19,9 +20,15 @@ Suggeriamo di recuperare i fondi per questa nuova struttura sia dalla riduzione 
     * - **PROGETTO**
       - **DESCRIZIONE**
       - **OWNER SUGGERITO**
-      - **DIPARTIMENTO PER LA TRASFORMAZIONE DIGITALE persone da assegnare**
-      - **PA CENTRALI persone da assegnare**
-      - **PA LOCALI persone da assegnare**
+      - **DIPARTIMENTO PER LA TRASFORMAZIONE DIGITALE**
+
+        persone da assegnare
+      - **PA CENTRALI** 
+
+        persone da assegnare
+      - **PA LOCALI** 
+
+        persone da assegnare
     * - :ref:`Cloud_Poli`
       - Razionalizzazione dei data center e migrazione a cloud o ad numero limitato di Poli Strategici Nazionali
       - Dipartimento per la Trasformazione Digitale - Presidenza del Consiglio dei Ministri o Ministero Economia e Finanze - Ragioneria Generale dello Stato
@@ -112,9 +119,9 @@ Suggeriamo di recuperare i fondi per questa nuova struttura sia dalla riduzione 
       - Verifica che la presentazione di istanze, dichiarazioni, dati e lo scambio di informazioni tra imprese e PA avvenga esclusivamente utilizzando le tecnologie dell’informazione e della comunicazione, secondo le modalità definite tramite relativo DPCM (`art. 5-bis del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo1_sezione2_art5-bis.html>`_ ))  
       - Agid
     * - **Domicilio Digitale**
-      - Attività: 
-         • Supporto al Ministero dello Sviluppo Economico nella realizzazione e gestione del registro INI-PEC (`art.6-bis del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo1_sezione2_art6-bis.html>`_ )  
-         • Linee guida e modalità su estrazione dei domicili digitali dagli elenchi, di cui agli articoli 6-bis, 6-ter e6-quater del CAD (`art.6-quinquies del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo1_sezione2_art6-quinquies.html>`_ )
+      -  Supporto al Ministero dello Sviluppo Economico nella realizzazione e gestione del registro INI-PEC (`art.6-bis del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo1_sezione2_art6-bis.html>`_ )  
+         
+         Linee guida e modalità su estrazione dei domicili digitali dagli elenchi, di cui agli articoli 6-bis, 6-ter e6-quater del CAD (`art.6-quinquies del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo1_sezione2_art6-quinquies.html>`_ )
       - Agid
     * - **Domicilio Digitale**
       - La realizzazione e la gestione dell’Indice dei domicili digitali della pubblica amministrazione, dei gestori di pubblici servizi e delle persone fisiche ((`art.6-ter del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo1_sezione2_art6-ter.html>`_ ), (`art.6-quater del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo1_sezione2_art6-quater.html>`_ ) del CAD)
@@ -179,7 +186,7 @@ Suggeriamo di recuperare i fondi per questa nuova struttura sia dalla riduzione 
       - Gestione della `Piattaforma Digitale Nazionale Dati <https://dataportal.daf.teamdigitale.it/#/>`_  (`art.50-ter del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo5_sezione1_art50-ter.html>`_ )
       - Ministero dell’Economia e delle Finanze / Ragioneria Generale dello Stato
     * - **Sicurezza**
-      - Attività : 
+      - Attività: 
          • Attuazione per quanto di competenza e in raccordo con le altre autorità competenti in materia, del Quadro strategico nazionale per la sicurezza dello spazio cibernetico e del Piano nazionale per la sicurezza cibernetica e la sicurezza informatica e promozione di intese con analoghe strutture internazionali, nonché emanazione di linee guida di promozione della sicurezza cibernetica 
          • Coordinamento, tramite il *Computer Emergency Response Team* Pubblica Amministrazione (CERT-PA) delle iniziative di prevenzione e gestione degli incidenti di sicurezza informatici (`art.51 del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo5_sezione1_art51.html>`_ ) 
       - Dipartimento Informazione e Sicurezza
@@ -199,7 +206,7 @@ Suggeriamo di recuperare i fondi per questa nuova struttura sia dalla riduzione 
       - Definizione di linee guida relative agli strumenti di analisi da adottare per verificare gli standard e livelli di qualità dei servizi realizzati dai fornitori di identità digitali e i prestatori dei servizi fiduciari (`art.64 -bis del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo5_sezione3_art64-bis.html>`_ )
       - Dipartimento per la Trasformazione Digitale / Presidenza del Consiglio
     * - **Open source e riuso**
-      - Attività : 
+      - Attività: 
          • Definizione criteri e modalità per la valutazione comparativa di tipo tecnico ed economico, di soluzioni già disponibili all’interno della pubblica amministrazione, o a software liberi o a codici sorgente aperto, adeguati alle esigenze da soddisfare (`art.68 del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo6_art68.html>`_ )
          • Individuazione di una o più piattaforme per la pubblicazione di codice sorgente, documentazione e la relativa descrizione tecnico funzionale di tutte le soluzioni informatiche sviluppate dalle PA (`art.69 del CAD <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo6_art69.html>`_ ) 
       - Dipartimento per la Trasformazione Digitale / Presidenza del Consiglio

@@ -1,5 +1,6 @@
 **Allegato B: Alcuni numeri chiave**
 =======================================
+
 I benefici determinati da una trasformazione digitale ben eseguita sono riflessi nel miglioramento dei servizi per i cittadini e nell’aumento dell’efficienza dell’amministrazione pubblica. Nonostante i vantaggi siano indiscutibili, la quantificazione monetaria del risparmio e i calcoli dell’aumento della produttività sono complessi e spesso frutto di stime incerte.
 
 Questa tabella prova a riassumere alcuni numeri chiave che diano un senso dell’impatto derivante dalla trasformazione digitale.

@@ -33,7 +33,6 @@ I comportamenti, le azioni quotidiane, la cultura, la comunicazione, la leadersh
 **Diego Piacentini**
 
 Commissario Straordinario per l’attuazione dell’Agenda Digitale
-..
 
 .. [1]   Digitizing Government: Understanding and Implementing New Digital Business Models. Alan Brown, Jerry Fishenden, Mark Thompson. 28 November 2014
 .. [2]   Simili conclusioni sono argomentate in `OECD Italy Economic Survey 2017, p. 45: Public administration efficiency raises firm’s performance <https://www.oecd.org/eco/surveys/italy-2017-OECD-economic-survey-overview.pdf>`_ .

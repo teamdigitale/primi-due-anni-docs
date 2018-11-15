@@ -1,15 +1,18 @@
 **Attività internazionali istituzionali**
-===================================================
+==========================================
+
 **Contesto**
 --------------
+
 Il Commissario e alcuni membri del Team rappresentano l’Italia in numerosi forum internazionali legati all’innovazione e all’egovernment, non solo nel contesto della Ue ma anche nelle organizzazioni internazionali quali `OCSE <http://www.oecd.org/>`_  e `OSCE <https://www.osce.org/>`_ , nei forum politici quali il G7, e attraverso la costruzione di rapporti bilaterali con singoli paesi.
 
 ..
 
 **Cosa abbiamo fatto**
-----------------------------
+-----------------------
+
 UE
-~~~~~~~~
+~~~
 
 	➔ *Steering Board* per l’ `eGovernment Action Plan 2016-2020 <https://ec.europa.eu/digital-single-market/en/news/communication-eu-egovernment-action-plan-2016-2020-accelerating-digital-transformation>`_ . Il Commissario straordinario e l’esperto del Team responsabile delle Relazioni Internazionali sono membri di un gruppo di lavoro previsto dallo stesso Piano (COM(2016) 179) e istituito presso la DG CNECT con il compito di coordinare e monitorare l’effettiva implementazione delle misure del Piano stesso. All’interno dello Steering Board hanno contribuito alla stesura della `Tallinn Declaration on eGovernment <https://ec.europa.eu/digital-single-market/en/news/ministerial-declaration-egovernment-tallinn-declaration>`_ e sottoscritta - per l’Italia il Commissario ha firmato in rappresentanza del Ministro della Funzione Pubblica - il 6 ottobre 2017 durante la conferenza Ministeriale dalla Presidenza di turno dell’Estonia. La nostra strategia progettuale è coerente con tutti i principi, le azioni e gli obiettivo dell’ `eGovernment Action Plan 2016-2020 <https://ec.europa.eu/digital-single-market/en/news/communication-eu-egovernment-action-plan-2016-2020-accelerating-digital-transformation>`_  e della Dichiarazione di Tallinn.
 
@@ -27,7 +30,7 @@ UE
 
 
 OCSE
-~~~~~~~~~~~~~
+~~~~~
 
 	➔ L’esperto di Relazioni Internazionali partecipa al comitato dedicato ai temi dell’economia digitale (`Committee on Digital Economy Policies <https://community.oecd.com/community/iccp-comm/iccp>`_ - CDEP). Il CDEP ha lanciato un progetto trasversale `Going Digital 2017-2020 <http://www.oecd.org/going-digital/>`_ per analizzare e spiegare la trasformazione digitale in atto e suggerire strumenti di policy che possano aiutare i governi ad affrontare il cambiamento economico e sociale in atto.
 
@@ -40,7 +43,7 @@ OCSE
 ..
 
 G7
-~~~~~~~
+~~~
 
 	➔ Il Commissario ha rappresentato il Ministro dello Sviluppo Economico alla *Innovation and Employment Ministerial* del `G7 Canada <https://g7.gc.ca/en/>`_ (Montreal, 27-28 marzo 2018).
 
@@ -53,13 +56,15 @@ G7
 ..
 
 OSCE
-~~~~~~~
+~~~~~
+
 La Presidenza italiana dell’ `OSCE <https://www.osce.org/>`_ ha inserito per la prima volta tra le sue le `priorità <https://www.osce.org/chairmanship/priorities-2018>`_  i temi del digitale e dell’innovazione. La Presidenza e il MAECI hanno richiesto formalmente la partecipazione del Commissario ai lavori preparatori e alla stesura di una Dichiarazione ministeriale sul digitale da sottoporre all’approvazione dei 57 Ministri degli Esteri degli Stati OSCE in occasione del Consiglio Ministeriale OSCE (dicembre 2018).
 
 ..
 
 Collaborazioni bilaterali
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 Abbiamo infine portato avanti una costante collaborazione bilaterale con alcuni paesi:
 
 	➔ siamo stati coinvolti dall’Ambasciata del Regno Unito a Roma nel “UK-Italy Bilateral Dialogue on Digital” sui temi della digitalizzazione del settore pubblico; abbiamo avuto incontri bilaterali con il *Secretary of State*, Karen Bradley e con il Secretary of State, Matthew Hancock, e con Liam Maxwell, *National Technology Adviser at HM Government* ;
@@ -70,4 +75,3 @@ Abbiamo infine portato avanti una costante collaborazione bilaterale con alcuni 
 
 	➔ a seguito della richiesta delle Ambasciate d’Australia e di Germania, abbiamo avviato attività di scambi ed esperienze.
 
-..

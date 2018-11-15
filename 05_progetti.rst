@@ -1,6 +1,7 @@
-*******************************************
+========================================
 **I progetti in corso di realizzazione**
-*******************************************
+========================================
+
 Il Team sta interagendo positivamente con gli attori principali dei processi di digitalizzazione quali Consip, Sogei, IPZS, Aci informatica, Infocamere, varie inhouse regionali e locali; in alcuni casi, questa interazione si è tradotta nell’avvio di un processo di trasformazione digitale interna e di utilizzo di metodi di sviluppo agili e iterativi delle inhouse stesse.
 
 Come si può essere infatti attori del processo di trasformazione digitale della PA se l’attore stesso non è digitalizzato (vedi AgID)?
@@ -22,28 +23,31 @@ Come si può essere infatti attori del processo di trasformazione digitale della
 .. _Cloud_Poli:
 
 **Cloud e Poli Strategici Nazionali**
-=======================================
+=====================================
+
 **Contesto**
---------------
+------------
+
 **Le infrastrutture fisiche della PA sono molto frammentate e spesso tecnologicamente inadeguate nonostante il fatto che la quota relativa ai data center risulti essere stimata** `circa il 39%  <https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/stabile/doc/allegati/3_quadro-sinottico-della-spesa-ict-nelle-pubbliche-amministrazioni-centrali.html>`_ **delle spese in infrastrutture fisiche (€681 Mln) effettuate dalle pubbliche amministrazioni centrali** [13]_ .
 
 Il Piano Triennale ha delineato un processo di razionalizzazione con lo scopo di ridurre gli oneri di gestione e la spesa in ICT e, al contempo, favorire l’erogazione di servizi più adeguati alle esigenze di cittadini ed imprese. Tale processo è imperniato su una radicale migrazione verso il paradigma *cloud* e l’uso di un numero ristretto di *data center* - i Poli Strategici Nazionali (PSN).
 
-Rimangono tuttavia molte le difficoltà nell’attuazione di questo percorso di migrazione: una resistenza al cambiamento da parte delle pubbliche amministrazioni, che sono determinate a mantenere i propri data center locali; processi di procurement che rendono difficile la  contrattualizzazione a consumo caratteristica del cloud; la carenza di connettività a banda larga diffusa sul territorio (tema in via di risoluzione grazie al `Piano BUL <http://bandaultralarga.italia.it/>`_ ).
+Rimangono tuttavia molte le difficoltà nell’attuazione di questo percorso di migrazione: una resistenza al cambiamento da parte delle pubbliche amministrazioni, che sono determinate a mantenere i propri data center locali; processi di procurement che rendono difficile la  contrattualizzazione a consumo caratteristica del cloud; la carenza di connettività a banda larga diffusa sul territorio (tema in via di risoluzione grazie al `Piano BUL <http://bandaultralarga.italia.it/>`_).
 
 Le regole di bilancio e il codice degli appalti sono inoltre poco flessibili rispetto al caso in cui una PA metta in condivisione un proprio *data center* per erogare servizi ad altra PA.
 
 ..
 
 **Cosa abbiamo fatto**
-----------------------------
+----------------------
+
 Abbiamo lavorato con l’Agenzia per l’Italia Digitale e con Consip:
 
 	➔ alla definizione del `Cloud della PA <https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/stabile/doc/03_infrastrutture-fisiche.html#data-center-e-cloud>`_  con la pubblicazione, a seguito di un processo di consultazione pubblica, delle due circolari AgID che qualificano i `servizi SaaS <https://cloud-pa.readthedocs.io/it/latest/circolari/SaaS/circolare_qualificazione_SaaS_v_4.12.27.html>`_  [14]_ ed i `Cloud Service Provider <https://cloud-pa.readthedocs.io/it/latest/circolari/CSP/circolare_qualificazione_CSP_v1.2.html>`_ (CSP) per la pubblica amministrazione;
 
 	➔ al censimento delle infrastrutture ICT della PA, necessario per l’individuazione dei PSN, che vede impegnate tutte le PA italiane nella descrizione dei loro asset e servizi tecnologici;
 
-	➔ alla progettazione del `Cloud Marketplace <https://cloud.italia.it/projects/cloud-italia-docs/it/latest/cloud-della-pa.html#il-marketplace-delle-infrastrutture-e-dei-servizi-cloud>`_ , la piattaforma integrata con gli strumenti di Consip che raccoglierà i servizi cloud qualificati da AgID e li renderà comparabili e consultabili a tutte le amministrazioni.
+	➔ alla progettazione del `Cloud Marketplace <https://cloud.italia.it/projects/cloud-italia-docs/it/latest/cloud-della-pa.html#il-marketplace-delle-infrastrutture-e-dei-servizi-cloud>`_, la piattaforma integrata con gli strumenti di Consip che raccoglierà i servizi cloud qualificati da AgID e li renderà comparabili e consultabili a tutte le amministrazioni.
 
 	➔ valorizzando *l’open source* e affiancando agli obblighi di riuso del software gli strumenti dove poterlo rilasciare e pubblicare, rendendo così il CAD una delle leggi più avanzate in Europa per *l’open source*;
 
@@ -57,7 +61,7 @@ Abbiamo elaborato inoltre un percorso di abilitazione al cloud per facilitare la
 ----------------------------
 Il ricorso ai PSN per servizi con esigenze specifiche (ad es. sicurezza nazionale) sarà cruciale.
 
-E’ quindi necessario che essi rispondano a chiari requisiti tecnici, di sicurezza e organizzativi come definiti nella `circolare 5/2017 di AgID <https://www.censimentoict.italia.it/it/latest/docs/circolari/2017113005.html#circolare-n-05-del-30-novembre-2017>`_ .
+È quindi necessario che essi rispondano a chiari requisiti tecnici, di sicurezza e organizzativi come definiti nella `circolare 5/2017 di AgID <https://www.censimentoict.italia.it/it/latest/docs/circolari/2017113005.html#circolare-n-05-del-30-novembre-2017>`_ .
 
 A tal riguardo, è da considerare anche la possibilità teorica che nessuno dei data center esistenti nella PA, ad esclusione di quello di Sogei, riesca a soddisfare tali requisiti. Tutti i restanti servizi dovranno migrare invece verso il Cloud della PA.
 
@@ -69,7 +73,7 @@ L’adozione del modello cloud invece cambierà i requisiti sulla connettività 
 
 Per gestire questo programma occorre un team dedicato con forti competenze tecniche e di project management, di cui AgID è oggi sprovvista, nonché una squadra di persone sul territorio che possano affiancare le amministrazioni locali durante il processo di migrazione.
 
-**Per la continuazione di questo progetto suggeriamo la costituzione di una nuova unità di almeno 25 persone, con competenze in architetture cloud, technical program management, cybersecurity e privacy, interna al Dipartimento per la Trasformazione Digitale della Presidenza del Consiglio o al Ministero dell’Economia e delle Finanze - Ragioneria Generale dello Stato** (vedi sezione :doc:`09_raccomandazioni` )**, nonché 100 persone in supporto alle amministrazioni locali sul territorio per l’esecuzione del programma.**
+**Per la continuazione di questo progetto suggeriamo la costituzione di una nuova unità di almeno 25 persone, con competenze in architetture cloud, technical program management, cybersecurity e privacy, interna al Dipartimento per la Trasformazione Digitale della Presidenza del Consiglio o al Ministero dell’Economia e delle Finanze - Ragioneria Generale dello Stato (vedi sezione** :doc:`09_raccomandazioni` **), nonché 100 persone in supporto alle amministrazioni locali sul territorio per l’esecuzione del programma.**
 
 **Gli esperti del Team per la Trasformazione Digitale che lavorano attualmente a questo progetto sarebbero disponibili a far parte di questa squadra.**
 
@@ -84,10 +88,12 @@ Per gestire questo programma occorre un team dedicato con forti competenze tecni
 
 .. _ANPR:
 
-**ANPR Anagrafe Nazionale Popolazione Residente**
-======================================================
+**ANPR**: Anagrafe Nazionale Popolazione Residente
+=================================================
+
 **Contesto**
---------------
+------------
+
 Nel 2012 è stata istituita per legge [15]_ l’Anagrafe Nazionale Popolazione Residente - ANPR - presso il Ministero dell’Interno, affidando lo sviluppo del progetto a Sogei, con l’obiettivo di far confluire le anagrafi asincrone di tutti i comuni in un’anagrafe nazionale contenente i dati dei residenti in Italia e degli italiani residenti all’estero.
 
 Con ANPR, avendo a disposizione una fonte unica e certa per i dati dei cittadini, le amministrazioni potranno comunicare e scambiare informazioni in maniera efficiente tra di loro così da garantire maggiore sicurezza nei controlli sul territorio e un ingente risparmio di ore di lavoro.
@@ -101,7 +107,8 @@ ANPR è un passo essenziale per rendere possibili successive innovazioni. Già o
 ..
 
 **Cosa abbiamo fatto**
-----------------------------
+----------------------
+
 Siamo intervenuti sul progetto in stallo creando il Program Office, nominato dal Ministero dell’Interno a settembre 2017 per la direzione tecnica del progetto nei confronti di Sogei.
 
 Abbiamo attuato una revisione dei processi, del piano di lavoro e concordato l’evoluzione tecnologica della piattaforma, facilitando le software house nel processo di migrazione dei comuni di cui sono fornitori. Sono stati rilasciati documentazione tecnica, kit di sviluppo e ambiente di test, e un *bug tracking system*.
@@ -113,10 +120,11 @@ Le diverse modalità di gestione operativa e tecnica hanno determinato il rilanc
 ..
 
 **Cosa c'è da fare**
-----------------------------
+--------------------
+
 Suggeriamo di mantenere il Program Office di ANPR anche dopo la fine del mandato del Team per la Trasformazione Digitale, in modo che si possa proseguire nella gestione tecnica del progetto, permettendone il completamento senza disperdere l’esperienza acquisita.
 
-**Alla luce dei notevoli risultati raggiunti e dell’esistenza di chiari processi, il Program Office, che dovrebbe essere dotato di almeno 5 persone con competenze prevalentemente di technical program management, sviluppo e architetture software, e anagrafiche, potrebbe risiedere all’interno del Dipartimento per la Trasformazione Digitale della Presidenza del Consiglio** (vedi sezione :doc:`09_raccomandazioni` ) **o nel Dipartimento del Ministero dell’Interno responsabile dell’attuazione di ANPR. Gli esperti del Team per la Trasformazione Digitale che fanno parte dell’attuale Program Office sarebbero disponibili a continuare a far parte di questa squadra.**
+**Alla luce dei notevoli risultati raggiunti e dell’esistenza di chiari processi, il Program Office, che dovrebbe essere dotato di almeno 5 persone con competenze prevalentemente di technical program management, sviluppo e architetture software, e anagrafiche, potrebbe risiedere all’interno del Dipartimento per la Trasformazione Digitale della Presidenza del Consiglio (vedi sezione** :doc:`09_raccomandazioni` **) o nel Dipartimento del Ministero dell’Interno responsabile dell’attuazione di ANPR. Gli esperti del Team per la Trasformazione Digitale che fanno parte dell’attuale Program Office sarebbero disponibili a continuare a far parte di questa squadra.**
 
 Sogei dovrà nel frattempo adeguare ANPR al nuovo modello di interoperabilità via API per la sua integrazione all’interno dei servizi pubblici digitali. Occorre inoltre far partire la seconda fase del progetto (ANPR estesa) che permetterà la digitalizzazione di ulteriori servizi comunali.
 
@@ -147,10 +155,12 @@ Sogei dovrà nel frattempo adeguare ANPR al nuovo modello di interoperabilità v
 
 .. _PagoPA:
 
-**PagoPA La piattaforma unica dei pagamenti**
-======================================================
+**PagoPA**: la piattaforma unica dei pagamenti
+==============================================
+
 **Contesto**
---------------
+------------
+
 Nel 2011 è stato istituito per legge pagoPA [17]_ , il nodo unico dei pagamenti pubblici italiani per pagare tributi, tasse universitarie e mense scolastiche, multe, TARI e tutti i tributi e servizi delle pubbliche amministrazioni.
 
 **L’obiettivo di pagoPA è di portare a una semplificazione, sia per i cittadini che per le amministrazioni, nella gestione dei pagamenti dei servizi pubblici e la completa eliminazione del contante.**
@@ -166,7 +176,8 @@ La piattaforma era coordinata da AgID e realizzata tecnologicamente da SIA, soci
 ..
 
 **Cosa abbiamo fatto**
-----------------------------
+----------------------
+
 Siamo intervenuti sul progetto con una revisione dell’interfaccia utente online, web e mobile, e disegnando un più intuitivo avviso cartaceo per i pagamenti nei punti fisici.
 
 Abbiamo rilasciato su `Developers Italia <https://developers.italia.it/>`_   la documentazione tecnica, linee guida, kit di sviluppo e ambienti di test per facilitare l’integrazione nei servizi pubblici digitali di pagoPA da parte dei fornitori di tecnologia e abbiamo favorito l’ingresso nella piattaforma di strumenti di pagamento innovativi (è possibile ad esempio pagare i servizi pubblici anche con Paypal e Satispay).
@@ -198,8 +209,9 @@ Per quello che riguarda gli enti effettivi aderenti a pagoPA, ovvero quelli che 
 ..
 
 **Cosa c'è da fare**
-----------------------------
-AgID, almeno nel suo assetto attuale, non è adatta a gestire e far crescere pagoPA. E’ necessario individuare un soggetto con adeguate competenze tecniche e di gestione di processi complessi per garantire una continua evoluzione tecnologica della piattaforma e la sua diffusione nei servizi pubblici digitali.
+--------------------
+
+AgID, almeno nel suo assetto attuale, non è adatta a gestire e far crescere pagoPA. È necessario individuare un soggetto con adeguate competenze tecniche e di gestione di processi complessi per garantire una continua evoluzione tecnologica della piattaforma e la sua diffusione nei servizi pubblici digitali.
 
 **Il soggetto a cui conferire pagoPA dovrebbe essere il Ministero dell’Economia e delle Finanze (MEF). A nostro avviso, è necessario costituire una unità di 30 persone, competente, flessibile nelle assunzioni di profili specifici, anche esterni alla pubblica amministrazione (tra cui esperti in architetture software e pagamenti digitali, technical program management, cybersecurity, prodotto e user experience), e autorevole, che abbia l’obiettivo di lavorare con SIA e integrare pagoPA in tutte le amministrazioni centrali e locali (incluse le reti consolari che ad oggi spesso utilizzano metodi di pagamento inadeguati) entro il 31/12/2019. Gli esperti del Team per la Trasformazione Digitale coinvolti sul coordinamento di pagoPA sarebbero disponibili a far parte della nuova squadra.**
 
@@ -209,24 +221,10 @@ Più specificatamente suggeriamo di valutare il seguente approccio:
 
 	➔ continuare ad affidare in outsourcing a SIA l’evoluzione tecnologica della piattaforma, considerati l’ottimo lavoro fino ad ora svolto e la sua specifica competenza nel settore dei pagamenti.
 
-**Alla luce della creazione dei meccanismi operativi, tecnologici e finanziari sopra descritti, le amministrazioni pubbliche locali e centrali non hanno più ragioni per non integrare pagoPA all’interno dei propri servizi di pagamento. Suggeriamo quindi di prevedere sanzioni da parte del MEF per quelle amministrazioni che, entro il 31/12/2019** [21]_ *, non avranno ancora adottato pagoPA.**
+**Alla luce della creazione dei meccanismi operativi, tecnologici e finanziari sopra descritti, le amministrazioni pubbliche locali e centrali non hanno più ragioni per non integrare pagoPA all’interno dei propri servizi di pagamento. Suggeriamo quindi di prevedere sanzioni da parte del MEF per quelle amministrazioni che, entro il 31/12/2019** [21]_ **, non avranno ancora adottato pagoPA.**
 
 **Nota bene: adottare pagoPA significa attivare la piattaforma dei pagamenti all’interno dei propri sistemi secondo le linee guida stabilite e smettere di accettare transazioni di pagamento con altri sistemi, e non semplicemente firmare la convenzione (come invece si limitava a fare AgID)** [22]_ .
 
-..
-
-      .. figure:: _image/andamento_valore_PagoPA.png
-         :alt: anadamento annuale valore PagoPA
-               
-         Andamento annuale valore transazioni (milioni di €) su pagoPA. Dati aggiornati al 30 settembre 2018.
-      
-..
-
-      .. figure:: _image/andamento_6M_valore_PagoPA.png
-         :alt: andamento semestrale valore PagoPA
-               
-         Andamento semestrale valore transazioni (milioni di €) su pagoPA. Dati aggiornati al 30 settembre 2018.
-      
 ..
 
       .. figure:: _image/interfaccia_pagoPA.png
@@ -266,10 +264,12 @@ Più specificatamente suggeriamo di valutare il seguente approccio:
 
 .. _SPID_CIE:
 
-**SPID e CIE Le identità del cittadino**
-======================================================
+**SPID e CIE**: le identità del cittadino
+=========================================
+
 **Contesto**
---------------
+------------
+
 `SPID <https://teamdigitale.governo.it/it/projects/identita-digitale.htm>`_ [23]_ , il Sistema Pubblico di Identità Digitale per l’accesso ai servizi pubblici digitali, è stato istituito nel 2013. `CIE <http://www.cartaidentita.interno.gov.it/>`_ [24]_ , la Carta d’Identità Elettronica, è stata istituita nel 2015.
 
 Entrambi gli strumenti sono fondamentali per permettere una identificazione sicura dei cittadini, sia online che nel mondo fisico. Essi superano i limiti delle comuni password soggette ad attacchi cyber sempre più frequenti quali il phishing e il furto di identità e della carta d’identità cartacea, il documento più falsificato d’Europa.
@@ -288,7 +288,8 @@ Questa decisione ha causato scelte strategiche, tecnologiche e di esperienza ute
 ----------------------------
 
 **SPID**
-~~~~~~~~~~~~~~~
+~~~~~~~~
+
 Siamo intervenuti su SPID con la costituzione di una governance più chiara, anche se non ancora ottimale, coinvolgendo gli Identity Provider e AgID in una costante revisione e definizione di scelte strategiche e operative. In particolare:
 
 	➔ abbiamo lavorato ad una nuova user e customer experience (sia del processo di rilascio che di utilizzo) e al disegno di un protocollo alternativo di realizzazione adatto per il mobile (basato su `OpenID Connect <https://openid.net/connect/>`_ ) per rendere SPID più semplice, intuitivo, e costruito intorno all’esperienza del cittadino;
@@ -311,7 +312,8 @@ Siamo intervenuti su SPID con la costituzione di una governance più chiara, anc
 ..
 
 **CIE**
-~~~~~~~~~~~~~~~
+~~~~~~~
+
 Grazie all’esperienza di IPZS nella formazione, gestione e diffusione sul territorio di sistemi di identificazione quali la carta di identità e il passaporto, è stato possibile abilitare all’emissione della CIE circa 7.500 comuni, che coprono il 96% circa della popolazione italiana, con un’emissione di 5.6 milioni di CIE in totale, e a 122.000 CIE emesse a settimana.
 
 Mentre non siamo entrati nella gestione operativa, il nostro ruolo è stato di supporto a IPZS nella realizzazione di un middleware per ulteriori e innovativi sviluppi e usi della CIE come mezzo di riconoscimento per l’accesso a gateway fisici (tornelli, mezzi di trasporto…), e nelle attività propedeutiche alla prenotifica eIDAS alla Commissione Europea di CIE come strumento di identificazione per i servizi pubblici digitali italiani ed europei.
@@ -334,7 +336,7 @@ Stiamo inoltre migliorando l’esperienza del cittadino nella fase di prenotazio
       
 ..
 
-      .. figure:: _image/CIE.png
+      .. figure:: _image/esempio_CIE.png
          :alt: CIE
                
          Carta di Identità Elettronica e prototipo nuova user experience per l’uso mobile.
@@ -342,12 +344,13 @@ Stiamo inoltre migliorando l’esperienza del cittadino nella fase di prenotazio
 ..
 
 **Cosa c'è da fare**
-----------------------------
+--------------------
+
 **Suggeriamo di riesaminare la scelta di mantenere a invarianza di risorse per la pubblica amministrazione il programma di identità digitale SPID.**
 
 Un modello che preveda un investimento costante nel programma da parte dello Stato permetterebbe di semplificare la governance, accelerare la diffusione del servizio ed eliminare il pericolo di non gratuità del servizio per il cittadino. Stiamo inoltre spingendo per un maggior coordinamento tra SPID e CIE che, pur rimanendo strumenti separati, possono offrire servizi equivalenti di riconoscimento digitale.
 
-**Per quello che riguarda CIE, suggeriamo che IPZS continui nella gestione del progetto, rafforzando l’attuale team con l’assunzione di ulteriori 15 persone con profili di technical program management, sviluppo software, sicurezza e user experience. Nel caso di SPID, suggeriamo che il Dipartimento per la Trasformazione Digitale della Presidenza del Consiglio** (vedi sezione :doc:`09_raccomandazioni` ), **prosegua con la gestione del progetto, con un team dedicato di 15 persone con profili prevalentemente di technical program management, architetture software, sicurezza e user experience.**
+**Per quello che riguarda CIE, suggeriamo che IPZS continui nella gestione del progetto, rafforzando l’attuale team con l’assunzione di ulteriori 15 persone con profili di technical program management, sviluppo software, sicurezza e user experience. Nel caso di SPID, suggeriamo che il Dipartimento per la Trasformazione Digitale della Presidenza del Consiglio (vedi sezione** :doc:`09_raccomandazioni` **), prosegua con la gestione del progetto, con un team dedicato di 15 persone con profili prevalentemente di technical program management, architetture software, sicurezza e user experience.**
 
 Questo team potrà ad esempio condurre il progetto di digitalizzazione delle licenze (la patente di guida, la licenza di pesca, il porto d’armi, etc.) e della Tessera Sanitaria e della Carta Nazionale dei Servizi, rendendoli attributi digitali della CIE consultabili con smartphone.
 
@@ -367,18 +370,18 @@ Questo team potrà ad esempio condurre il progetto di digitalizzazione delle lic
       .. figure:: _image/costi_CIE.png
          :alt: Costi CIE
                
-         Tabella dei costi CIE.
+         Tabella dei costi orientativi della CIE. I diritti di segreteria variano da comune a comune.
       
 ..
 
 .. _Opengov_opensource:
 
-**Open Government e Open Source**
-======================================================
-**Gli strumenti di collaborazione, trasparenza e software aperto**
+**Open Government e Open Source**: gli strumenti di collaborazione, trasparenza e software aperto
+=================================================================================================
 
 **Contesto**
---------------
+------------
+
 La trasformazione digitale richiede un radicale cambiamento nel modo in cui la Pubblica Amministrazione comunica, collabora, opera e si interfaccia con le soluzioni tecnologiche.
 
 **Le amministrazioni sono strutturate secondo un approccio organizzativo a silos, dove prevalgono i personalismi rispetto ad approcci collaborativi. Ne consegue una frequente mancanza di condivisione di informazioni non solo tra dipendenti pubblici di amministrazioni diverse, ma anche tra uffici diversi di uno stesso ente.**
@@ -398,7 +401,8 @@ Grazie a questo approccio, basato sull’open source, è possibile creare un pat
 ..
 
 **Cosa abbiamo fatto**
-----------------------------
+----------------------
+
 Abbiamo creato due strumenti di comunicazione, dialogo, confronto e trasparenza per i cittadini, i funzionari pubblici e i fornitori di tecnologia:
 
 	➔ `Docs Italia <https://docs.developers.italia.it/>`_ , che con l’ausilio di un team dedicato di scrittori tecnici (tech writers) raccoglie e mette a disposizione la documentazione tecnica dei servizi pubblici digitali in un punto unico e permette di condividere i documenti in consultazione pubblica [27]_ , di raccogliere contributi e suggerimenti, di aggiornare la documentazione e tenere traccia delle successive evoluzioni;
@@ -422,38 +426,38 @@ Per lo stesso motivo, è stata avviata la creazione di un catalogo del software 
       .. figure:: _image/docs_italia.png
          :alt: docs italia
                
-         Docs Italia
+         `Docs Italia <https://docs.italia.it>`_
 		       
 ..
 
       .. figure:: _image/forum_italia.png
          :alt: forum italia
                
-         Forum Italia 
+         `Forum Italia <https://forum.italia.it>`_ 
       
 ..
 
       .. figure:: _image/developers.png
          :alt: developers italia
                
-         Developers Italia 
+         `Developers Italia <https://developers.italia.it>`_
       
 ..
 
       .. figure:: _image/designers.png
          :alt: designers italia
                
-         Designers Italia
+         `Designers Italia <https://designers.italia.it>`_
 		 
-..
 
 ..
 
 **Cosa c'è da fare**
-----------------------------
-**E’ necessario sostenere il profondo cambiamento culturale che abbiamo avviato sulle modalità di sviluppo, collaborazione, comunicazione e condivisione per permettere alle amministrazioni di aprirsi. Per questo è necessario diffondere ed adottare questi strumenti, considerando anche l’introduzione di incentivi da parte del MEF a favore delle amministrazioni pubbliche.**
+--------------------
 
-**Suggeriamo inoltre di prevedere il trasferimento della gestione di questi strumenti all’interno del Dipartimento per la Trasformazione Digitale della Presidenza del Consiglio** (vedi sezione :doc:`09_raccomandazioni` ) **, con un team dedicato di almeno 30 persone - con competenze di project management, sviluppo software e open source, scrittura di documentazione tecnica, service design, user experience** (vedi sezione :doc:`06_io_italia` ). 
+**È necessario sostenere il profondo cambiamento culturale che abbiamo avviato sulle modalità di sviluppo, collaborazione, comunicazione e condivisione per permettere alle amministrazioni di aprirsi. Per questo è necessario diffondere ed adottare questi strumenti, considerando anche l’introduzione di incentivi da parte del MEF a favore delle amministrazioni pubbliche.**
+
+**Suggeriamo inoltre di prevedere il trasferimento della gestione di questi strumenti all’interno del Dipartimento per la Trasformazione Digitale della Presidenza del Consiglio (vedi sezione** :doc:`09_raccomandazioni` **), con un team dedicato di almeno 30 persone - con competenze di project management, sviluppo software e open source, scrittura di documentazione tecnica, service design, user experience (vedi sezione** :doc:`06_io_italia` **).** 
 
 **Gli esperti del Team per la Trasformazione Digitale che stanno lavorando all’Open Government e Open Source sarebbero disponibili a far parte della squadra.**
 
@@ -463,12 +467,12 @@ Per lo stesso motivo, è stata avviata la creazione di un catalogo del software 
 
 .. _interoperab:
 
-**Interoperabilità e API**
-======================================================
-**Come far comunicare dati, software e servizi delle amministrazioni**
+**Interoperabilità e API**: Come far comunicare dati, software e servizi delle amministrazioni
+==============================================================================================
 
 **Contesto**
---------------
+------------
+
 **L’interoperabilità è la capacità delle applicazioni software di interagire tra loro mettendo in atto procedure coordinate e condivise tra le varie piattaforme, ed è condizione necessaria per l’attuazione del principio** `once-only <https://ec.europa.eu/digital-single-market/en/news/once-only-principle-toop-project-launched-january-2017>`_ **previsto dall’** `eGovernment Action Plan 2016-2020 <https://ec.europa.eu/digital-single-market/en/news/communication-eu-egovernment-action-plan-2016-2020-accelerating-digital-transformation>`_ **- l’Ue stima un risparmio annuo a livello europeo di € 5 miliardi che potrebbe venire solo dall’implementazione di questo principio** [29]_ . **Tutto ciò è necessario per realizzare la visione nota anche come** `Government as a Platform <https://www.accenture.com/us-en/insights/public-service/government-as-a-platform>`_ .
 
 La legislazione italiana prevede già, all’interno del `Codice dell’Amministrazione Digitale <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/>`_ , la possibilità di interconnettere le piattaforme tecnologiche della Pubblica Amministrazione, e il `Piano Triennale <https://pianotriennale-ict.italia.it/>`_  [30]_ affronta il tema nello specifico capitolo sull’Interoperabilità dove si indica la necessità di un nuovo modello di cooperazione applicativa basato su API, che superi il modello attualmente in vigore.
@@ -481,7 +485,8 @@ Nel tempo diversi enti locali hanno deciso di utilizzare modelli alternativi. Un
 ..
 
 **Cosa abbiamo fatto**
-----------------------------
+----------------------
+
 Abbiamo lavorato con AgID alla scrittura delle nuove regole di interoperabilità e i primi due capitoli del nuovo modello sono già stati messi in `consultazione pubblica <https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/stabile/>`_ ; ci stiamo concentrando sul completamento del modello nonché sulla definizione dei requisiti per la costruzione di un catalogo nazionale delle API che possa essere utilizzato dalle PA e dai privati per ottenere facilmente accesso alle funzionalità messe a disposizione.
 
 Nel frattempo abbiamo lavorato con alcune PA per preparare una selezione di API già allineate al nuovo modello che, in previsione della creazione del Catalogo delle API, `sono state pubblicate <https://developers.italia.it/it/api/>`_ all’interno del sito `Developers Italia <https://developers.italia.it/>`_ .
@@ -489,12 +494,13 @@ Nel frattempo abbiamo lavorato con alcune PA per preparare una selezione di API 
 ..
 
 **Cosa c'è da fare**
-----------------------------
+--------------------
+
 Le esperienze di E015 e di altri stati europei dimostrano che **l’adozione del modello di API e soprattutto la sua evoluzione continua, richiedono una forte struttura di governance che permetta l’accompagnamento delle amministrazioni e il continuo aggiornamento delle regole tecniche.**
 
 Ad esempio, lo standard di interoperabilità `X-Road utilizzato in Estonia <https://e-estonia.com/solutions/interoperability-services/x-road/>`_ , diventato operativo nel 2001, è oggi in produzione con la versione 6 e subisce aggiornamenti continui con cadenza quasi mensile. L’Estonia, un paese con solo 1,3 milioni di abitanti e una architettura istituzionale semplice, ha una `Autorità per il Sistema Informativo Estone <https://www.ria.ee/en.html>`_ che conta 130 persone, all’interno del quale si trova un team di 14 persone dedicate al modello di interoperabilità X-Road.
 
-**Prendendo a riferimento l’esperienza di E015, stimiamo che l’interoperabilità dovrebbe essere responsabilità di un team composto di almeno 10 persone con competenze prettamente tecniche, tra cui project management e sviluppo di micro-servizi, all’interno del Dipartimento per la Trasformazione Digitale della Presidenza del Consiglio** (vedi sezione :doc:`09_raccomandazioni` ), **nonché 20 persone in supporto alle amministrazioni locali sul territorio.**
+**Prendendo a riferimento l’esperienza di E015, stimiamo che l’interoperabilità dovrebbe essere responsabilità di un team composto di almeno 10 persone con competenze prettamente tecniche, tra cui project management e sviluppo di micro-servizi, all’interno del Dipartimento per la Trasformazione Digitale della Presidenza del Consiglio (vedi sezione** :doc:`09_raccomandazioni` **), nonché 20 persone in supporto alle amministrazioni locali sul territorio.**
 
 **Gli esperti del Team per la Trasformazione Digitale che stanno lavorando all’interoperabilità sarebbero disponibili a far parte della squadra.**
 
@@ -503,18 +509,17 @@ Ad esempio, lo standard di interoperabilità `X-Road utilizzato in Estonia <http
       .. figure:: _image/developers_API.png
          :alt: API su Developers
                
-         Nuova pagina dedicata alle API su Developers Italia
+         Nuova pagina dedicata alle API su `Developers Italia <https://developers.italia.it>`_
 		       
 ..
 
 .. _DAF:
 
-**Piattaforma Digitale Nazionale Dati**
-======================================================
-**Gli strumenti per l’utilizzo dei dati della PA (Data & Analytics Framework)**
+**Piattaforma Digitale Nazionale Dati**: gli strumenti per l’utilizzo dei dati della PA (Data & Analytics Framework)
 
 **Contesto**
---------------
+------------
+
 L’immenso patrimonio dei dati pubblici è sottoutilizzato e la sua gestione risulta eterogenea e frammentata. La mancata valorizzazione dei dati pubblici è un problema per tutti i Governi, non solo per quello italiano, e la sua risoluzione creerebbe enormi benefici.
 
 **I dati vengono conservati e utilizzati all’interno di ogni amministrazione secondo un modello a silos, impedendo la condivisione, lo scambio e l’uso tra amministrazioni in maniera agevole, così da poter erogare servizi pubblici più efficaci per cittadini e imprese.**
@@ -527,17 +532,14 @@ Un efficace utilizzo dei *big data* permetterebbe alla pubblica amministrazione 
 
 **Cosa abbiamo fatto**
 ----------------------------
-Abbiamo creato un team di esperti di *data science* e *machine learning* e sviluppato il *Data & Analytics Framework (DAF)*, che include una piattaforma di *big data* per la raccolta, elaborazione, condivisione via API, visualizzazione e analisi di dati – *open data* quando possibile – della pubblica amministrazione con strumenti di *data science e machine learning*. Il primo `prototipo <https://dataportal.daf.teamdigitale.it/#/>`_  è attualmente in fase sperimentale in attuazione del `D.Lgs. 13 dicembre 2017 n. 217  <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217!vig=>`_ [31]_ che ha istituzionalizzato il DAF con il nome di Piattaforma Digitale Nazione Dati.
-
-Abbiamo lavorato con AgID alla scrittura delle nuove regole di interoperabilità e i primi due capitoli del nuovo modello sono già stati messi in `consultazione pubblica <https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/stabile/>`_ ; ci stiamo concentrando sul completamento del modello nonché sulla definizione dei requisiti per la costruzione di un catalogo nazionale delle API che possa essere utilizzato dalle PA e dai privati per ottenere facilmente accesso alle funzionalità messe a disposizione.
-
-Nel frattempo abbiamo lavorato con alcune PA per preparare una selezione di API già allineate al nuovo modello che, in previsione della creazione del Catalogo delle API, `sono state pubblicate <https://developers.italia.it/it/api/>`_ all’interno del sito `Developers Italia <https://developers.italia.it/>`_ .
+Abbiamo creato un team di esperti di *data science* e *machine learning* e sviluppato il *Data & Analytics Framework (DAF)*, che include una piattaforma di *big data* per la raccolta, elaborazione, condivisione via API, visualizzazione e analisi di dati – *open data* quando possibile – della pubblica amministrazione con strumenti di *data science e machine learning*. Il `primo prototipo <https://dataportal.daf.teamdigitale.it/#/>`_  è attualmente in fase sperimentale in attuazione del `D.Lgs. 13 dicembre 2017 n. 217  <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2017-12-13;217!vig=>`_ [31]_ che ha istituzionalizzato il DAF con il nome di Piattaforma Digitale Nazione Dati.
 
 ..
 
 **Cosa c'è da fare**
-----------------------------
-**E’ necessario affidare la gestione della** `Piattaforma Digitale Nazionale Dati <https://teamdigitale.governo.it/it/projects/daf.htm>`_ **ad una governance stabile, competente ed autorevole che definisca e faccia evolvere la strategia nazionale di valorizzazione dei dati pubblici.**
+--------------------
+
+**È necessario affidare la gestione della** `Piattaforma Digitale Nazionale Dati <https://teamdigitale.governo.it/it/projects/daf.htm>`_ **ad una governance stabile, competente ed autorevole che definisca e faccia evolvere la strategia nazionale di valorizzazione dei dati pubblici.**
 
 **Suggeriamo una governance multi-stakeholder, coordinata dalla Presidenza del Consiglio dei Ministri, che veda il Ministero dell’Economia e delle Finanze - Ragioneria Generale dello Stato (MEFRGS) per lo sviluppo tecnologico e la gestione della piattaforma, e ISTAT per la modellistica e l’analisi dati, purché all’interno del MEFRGS venga istituito un Data Office dinamico e competente, il cui Chief Data Officer riporti direttamente al Ragioniere Generale, e sia messo in grado di reclutare dal privato un team di inizialmente circa 45 persone e crescente nel tempo, tra cui esperti in data science, machine learning, big data architecture, cybersecurity, metrics e analytics, di cui 5 persone in supporto all'Autorità Garante per la Protezione dei Dati Personali.**
 
@@ -552,18 +554,18 @@ Le amministrazioni pubbliche titolari di set di dati, ad esclusione delle autori
       .. figure:: _image/alpha_daf.png
          :alt: versione alpha portale daf
                
-         Versione alfa del dataportal della Piattaforma Digitale Nazionale Dati.
+         Versione alfa del dataportal della `Piattaforma Digitale Nazionale Dati <https://teamdigitale.governo.it/it/projects/daf.htm>`_.
 		       
 ..
 
 .. _LEX:
 
-**Lex Datafication**
-======================================================
-**Trasparenza nella creazione e uso delle leggi**
+**Lex Datafication**: trasparenza nella creazione e uso delle leggi
+===================================================================
 
 **Contesto**
---------------
+------------
+
 La gestione dell’immenso patrimonio di testi normativi, siano essi leggi e norme di rango primario o regolamentazioni secondarie, è frammentata, ed interessa tutte le fasi: produzione, raccolta e gestione, pubblicazione per ricerca e applicazione.
 
 All’interno di tali fasi raramente si fa uso di strumenti e processi digitali moderni. La digitalizzazione di questo patrimonio informativo è spesso intesa come conversione di documenti prodotti in maniera analogica in pdf, in formati peraltro frequentemente non leggibili in maniera automatica da una macchina, e questo ne limita la ricerca e fruizione di contenuti normativi specifici da parte di cittadini, imprese ed altre amministrazioni.
@@ -577,7 +579,8 @@ La trasformazione digitale del patrimonio informativo normativo inoltre dovrebbe
 ..
 
 **Cosa abbiamo fatto**
-----------------------------
+----------------------
+
 **Abbiamo avviato** `Lex Datafication <https://teamdigitale.governo.it/it/projects/lexdatafication.htm>`_ **, un progetto per valorizzare il patrimonio informativo testuale della pubblica amministrazione e migliorarne l’accesso alle informazioni da parte del cittadino, collaborando con il Comitato di Indirizzo di** `Normattiva <http://www.normattiva.it/>`_ **e l’** `Istituto Poligrafico e Zecca dello Stato <https://www.ipzs.it/ext/index.html>`_ .
 
 Il progetto prevede di far evolvere `Normattiva <http://www.normattiva.it/>`_ verso un punto di accesso qualificato ai dati normativi, intervenendo sull’usabilità e funzionalità della piattaforma, adottando standard internazionali per la gestione del contenuto normativo, così da migliorare le capacità di ricerca e includendo banche dati attualmente non contemplate (es. disegni legge).
@@ -594,15 +597,16 @@ Il progetto in particolare è volto a:
 
 ..
 	
-Nell’ambito della trasformazione digitale dell’intero processo di stesura di una legge abbiamo cominciato a introdurre gli strumenti di collaborazione e condivisione - Docs Italia <https://docs.developers.italia.it/>`_  e `Forum Italia <https://forum.italia.it/>`_ - descritti nella sezione :ref:`Opengov_opensource`.  Tali strumenti sono stati utilizzati per la stesura, in consultazione pubblica, delle linee guida previste dal `Piano Triennale <https://pianotriennale-ict.italia.it/>`_ , tra cui le `Linee guida per la qualificazione dei servizi SaaS <https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/circolari/SaaS/index.html>`_ e i `Cloud Service Provider della PA <https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/>`_ , le `Linee guida per l’acquisizione e riuso di software per la PA <https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/index.html>`_  e le `Linee guida per il nuovo modello di interoperabilità <https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/stabile/>`_ .
+Nell’ambito della trasformazione digitale dell’intero processo di stesura di una legge abbiamo cominciato a introdurre gli strumenti di collaborazione e condivisione - `Docs Italia <https://docs.developers.italia.it/>`_  e `Forum Italia <https://forum.italia.it/>`_ - descritti nella sezione :ref:`Opengov_opensource`.  Tali strumenti sono stati utilizzati per la stesura, in consultazione pubblica, delle linee guida previste dal `Piano Triennale <https://pianotriennale-ict.italia.it/>`_ , tra cui le `Linee guida per la qualificazione dei servizi SaaS <https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/circolari/SaaS/index.html>`_ e i `Cloud Service Provider della PA <https://cloud.italia.it/projects/cloud-italia-circolari/it/latest/>`_ , le `Linee guida per l’acquisizione e riuso di software per la PA <https://docs.italia.it/AgID/linee-guida-riuso-software/lg-acquisizione-e-riuso-software-per-pa-docs/it/bozza/index.html>`_  e le `Linee guida per il nuovo modello di interoperabilità <https://docs.italia.it/italia/piano-triennale-ict/lg-modellointeroperabilita-docs/it/stabile/>`_ .
 
 Abbiamo inoltre creato su Docs Italia una mappa interattiva del CAD che comprende l’evoluzione delle varie versioni del testo di legge.
 
 ..
 
 **Cosa c'è da fare**
-----------------------------
-**E’ necessario proseguire nel lavoro avviato sul progetto Lex Datafication, digitalizzando il processo legislativo ovvero di tutti gli atti di Camera e Senato utilizzando gli strumenti di editing collaborativo e di pubblicazione creati dal Team.**
+--------------------
+
+**È necessario proseguire nel lavoro avviato sul progetto Lex Datafication, digitalizzando il processo legislativo ovvero di tutti gli atti di Camera e Senato utilizzando gli strumenti di editing collaborativo e di pubblicazione creati dal Team.**
 
 **L’uso di questo patrimonio di dati per eseguire analisi con tecniche Natural Language Processing (NLP) e Artificial Intelligence (AI) permetterà l’evoluzione del processo legislativo sia nella creazione di nuove leggi sia nel loro utilizzo, e di analizzarne in automatico, ad esempio, la frequenza di uso e il grado di utilità.**
 
@@ -612,12 +616,11 @@ Abbiamo inoltre creato su Docs Italia una mappa interattiva del CAD che comprend
 
 .. _Cybersec:
 
-**Cybersecurity**
-======================================================
-**Supporto al Piano Nazionale Cyber**
+**Cybersecurity**: supporto al Piano Nazionale Cyber
 
 **Contesto**
---------------
+------------
+
 **La pubblica amministrazione ha iniziato solo di recente a dotarsi delle necessarie competenze tecniche, strumenti, processi, best practices e  misure minime per rendere le proprie infrastrutture tecnologiche e i propri servizi pubblici digitali sicuri.**
 
 La mancanza di questi elementi porta le amministrazioni a essere esposte, quasi sempre inconsapevolmente, ad attacchi informatici periodici (e potenzialmente pericolosi), *data breach*, *information leakage*, *data loss* e *DDoS*.
@@ -627,7 +630,8 @@ La recente approvazione del Piano Nazionale Cyber [32]_ , che prevede il consoli
 ..
 
 **Cosa abbiamo fatto**
-----------------------------
+----------------------
+
 Abbiamo inserito all’interno del Piano Triennale per la Trasformazione Digitale `misure minime di sicurezza <https://pianotriennale-ict.italia.it/sicurezza/>`_ per l’infrastruttura ICT della pubblica amministrazione. Nonostante l’attività di *cybersecurity* non rientri tra i compiti formali del Team, il nostro esperto di *cybersecurity* è diventato un punto di riferimento per numerosi enti ed amministrazioni, inclusi il CERT-PA e il CERTNazionale, per la risposta ad attacchi informatici e per il supporto nella messa in sicurezza delle proprie infrastrutture attraverso attività di *Incident Response* e *Root Cause analysis*, la creazione di processi e misure preventive di sicurezza, la revisione architetturale dei propri network, infrastrutture IT e applicazioni esposte sulla rete, e la creazione di *penetration test* e *vulnerability assessments*.
 
 **Inoltre stiamo spingendo - come è stato fatto in Olanda, Francia e Lituania e negli Stati Uniti con l’adozione di specifici framework normativi - l’introduzione di programmi di** `Responsible Disclosure <https://medium.com/team-per-la-trasformazione-digitale/sicurezza-informatica-policy-responsible-disclosure-hacker-etici-52a174d44c49>`_ [33]_ **, anche con l’aggiunta di un bug bounty** [34]_.
@@ -637,10 +641,11 @@ Abbiamo infatti contribuito, all’interno della *task force* del *Centre for Eu
 ..
 	
 **Cosa c'è da fare**
-----------------------------
+--------------------
+
 Concordiamo con il consolidamento e rafforzamento della nuova *governance* delineata dal `Piano Nazionale Cyber <https://www.sicurezzanazionale.gov.it/sisr.nsf/wp-content/uploads/2017/05/piano-nazionale-cyber-2017.pdf>`_  e guidata dal Dipartimento Informazione e Sicurezza della Presidenza del Consiglio dei Ministri, nonché con la razionalizzazione del CERT-Nazionale e del CERT-PA in un unico ente a supporto delle amministrazioni nella gestione della sicurezza dei propri sistemi.
 
-E’ inoltre auspicabile avviare un percorso per la creazione di una *policy* nazionale di *Coordinated Vulnerability Disclosure (CVD)*.
+È inoltre auspicabile avviare un percorso per la creazione di una *policy* nazionale di *Coordinated Vulnerability Disclosure (CVD)*.
 
 ..
 

@@ -1,7 +1,9 @@
 **Una nuova generazione di servizi pubblici digitali: io.italia.it**
-============================================================================= 
+====================================================================
+
 **Contesto**
---------------
+------------
+
 Una struttura centrale non può ridisegnare tutti i servizi pubblici digitali che le pubbliche amministrazioni offrono al cittadino e all’impresa.
 
 **Abbiamo tuttavia deciso di non focalizzarci unicamente su piattaforme abilitanti e linee guida, ma di impegnarci direttamente sulla (ri)progettazione di un numero limitato di servizi pubblici digitali che per loro utilità e frequenza d’uso hanno importanti ricadute nella vita di cittadini e imprese (servizi flagship).**
@@ -11,7 +13,8 @@ Questa attività può rappresentare un punto di riferimento e una guida per le a
 ..
 
 **Cosa stiamo facendo**
-----------------------------
+-----------------------
+
 **L’innovazione principale introdotta dal Team Digitale non risiede solo nel contenuto dei progetti, ma anche nell’approccio metodologico impiegato. In questi mesi, infatti, il Team ha introdotto le metodologie dello human centered design e del design thinking, spingendo sulla necessità di analizzare i reali bisogni degli utenti, definendo degli indicatori chiari per misurare l’efficacia del prodotto/servizio in questione, adottando un processo di design iterativo e misurando gli impatti effettivi sulla vita di chi li usa.**
 
 Le metodologie introdotte e contenute nelle `Linee Guida di design <https://designers.italia.it/guide/>`_ per i servizi e i siti della PA assicurano inoltre che le interfacce, i servizi e contenuti progettati siano usabili e `pienamente accessibili <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/doc/service-design/accessibilita.html>`_ , per migliorare l’esperienza dei cittadini.
@@ -29,7 +32,8 @@ L’intervento più radicale e innovativo riguarda la creazione di `io.italia.it
 ..
 
 **Io.italia.it**
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~
+
 Stiamo sviluppando `io.italia.it <https://io.italia.it/>`_  un’applicazione altamente innovativa che permetterà al cittadino di ricevere messaggi, documenti e notifiche delle scadenze, chiedere informazioni e certificati, impostare le proprie preferenze e pagare la pubblica amministrazione in maniera semplice ed intuitiva [35]_ .
 
 L’applicazione sarà il prodotto principale dell’integrazione delle componenti previste dal Piano Triennale, tra cui le piattaforme abilitanti SPID e pagoPA, il sistema di notifiche e documenti basato sulle API e sul modello di interoperabilità previsto dal Piano Triennale, le linee guida di design per i servizi pubblici. Incominceremo la sperimentazione del servizio ad ottobre 2018 con un numero limitato di utenti e Pubbliche Amministrazioni. Un’evoluzione dell’applicazione è l’aggiunta di un wallet digitale che permetta di ottenere e gestire accrediti dello Stato (es. contributi o rimborso delle tasse). Tutti i contributi dallo Stato al cittadino potranno essere gestiti in questo modo. Ad esempio, integrata con l’INPS, l’applicazione permetterebbe la sostituzione con una versione digitale dei voucher dei lavoratori occasionali.
@@ -43,20 +47,21 @@ L’esecuzione di questo progetto necessita della costituzione di un team dedica
       .. figure:: _image/sito_ioitalia.png
          :alt: io.italia
                
-         Sito io.italia.it per spiegare al cittadino l’applicazione e la sua prossima uscita in beta.
+         Sito `io.italia.it <https://io.italia.it/>`_ per spiegare al cittadino l’applicazione e la sua prossima uscita in beta.
 		       
 ..
 
       .. figure:: _image/app_ioitalia.png
          :alt: app io.italia
                
-         Mockup funzionalità messaggi, pagamenti e archivio documenti dell’app io.italia.it.
+         Mockup funzionalità messaggi, pagamenti e archivio documenti dell’app `io.italia.it <https://io.italia.it/>`_.
       
 ..
 
 **Domicilio digitale**
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-Abbiamo lavorato con Infocamere per la realizzazione del servizio che consentirà a tutti i cittadini di eleggere il proprio domicilio digitale, definendo la user experience e progettando l’interfaccia dell’applicazione web collegata al servizio. Il domicilio digitale sarà integrato all’interno di io.italia.it. [36]_ .
+~~~~~~~~~~~~~~~~~~~~~~
+
+Abbiamo lavorato con Infocamere per la realizzazione del servizio che consentirà a tutti i cittadini di eleggere il proprio domicilio digitale, definendo la user experience e progettando l’interfaccia dell’applicazione web collegata al servizio. Il domicilio digitale sarà integrato all’interno di `io.italia.it <https://io.italia.it/>`_. [36]_ .
 
 ..
 
@@ -96,12 +101,13 @@ In collaborazione con il Ministero dell’Istruzione, Università e Ricerca stia
       .. figure:: _image/personas.png
          :alt: personas
                
-         Personas relativa all’attività di user reasearch condotta dal Team, all’interno del progetto di redesign dei `siti web <https://designers.italia.it/progetti/siti-scuole/>`_ delle scuole.
+         `Personas <https://designers.italia.it/kit/personas/>`_ relativa all’attività di user reasearch condotta dal Team, all’interno del progetto di redesign dei `siti web <https://designers.italia.it/progetti/siti-scuole/>`_ delle scuole.
 		 
 ..
 
 **Cosa c'è da fare**
-------------------------
+--------------------
+
 Creare un modello organizzativo scalabile che permetta il ripensamento e la riprogettazione nel corso del tempo di tutti i servizi pubblici (vedi sezione :doc:`09_raccomandazioni` ) .
 
 ..

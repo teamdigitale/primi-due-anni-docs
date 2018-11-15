@@ -1,11 +1,12 @@
 **La Strategia: Il Piano Triennale**
-======================================
+====================================
+
 **Contesto**
 ---------------
 
 **La trasformazione digitale della Pubblica Amministrazione necessita di una governance centrale autorevole, dotata di un capitale umano con forti competenze tecnologiche e di gestione dei processi, e di una strategia che sia coerente con i bisogni di cittadini e imprese.**
 
-L’attuale composizione del Team, snella e agile, va intesa come una prima versione delmodello di governance e gestione operativa; è l’inizio di un percorso di lungo periodo,iniziato in ritardo, soprattutto se paragonato ad altri paesi della Ue.
+L’attuale composizione del Team, snella e agile, va intesa come una prima versione del modello di governance e gestione operativa; è l’inizio di un percorso di lungo periodo, iniziato in ritardo, soprattutto se paragonato ad altri paesi della Ue.
 
 ..
 
@@ -13,12 +14,13 @@ L’attuale composizione del Team, snella e agile, va intesa come una prima vers
       .. figure:: _image/sito_piano.png
          :alt: Sito del piano triennale
                
-         Sito del `Piano Triennale per la Trasformazione Digitale della Pubblica Amministrazione <https://pianotriennale-ict.italia.it/>`_ .               
+         Sito del `Piano Triennale per la Trasformazione Digitale <https://pianotriennale-ict.italia.it/>`_ pubblicato con DPCM il 31 maggio 2017.               
                
 ..
 
 **Cosa abbiamo fatto**
---------------------------
+----------------------
+
 Abbiamo curato insieme ad AgID la stesura e la realizzazione del `Piano Triennale per la Trasformazione Digitale della Pubblica Amministrazione <https://pianotriennale-ict.italia.it/>`_  , il primo documento di indirizzo strategico approvato dal Presidente del Consiglio - `DPCM 31 maggio 2017 <http://www.gazzettaufficiale.it/eli/id/2017/07/15/17A04832/sg>`_ - con lo scopo di guidare la Pubblica Amministrazione in un percorso organico di trasformazione digitale. 
 
 Il Piano Triennale dovrà essere aggiornato a settembre di ogni anno e fissa gli assi portanti di questo processo di cambiamento, qui di seguito elencati:
@@ -46,12 +48,13 @@ Il Piano Triennale dovrà essere aggiornato a settembre di ogni anno e fissa gli
       .. figure:: _image/mappa_modello.png
          :alt: Mappa del modello stategico
                
-         Mappa del modello strategico di evoluzione del sistema ICT della PA, `Capitolo 2.1, Piano Triennale per la Trasformazione Digitale <https://pianotriennale-ict.readthedocs.io/it/latest/_images/figura4.svg>`_ .
+         Mappa del modello strategico di evoluzione del sistema ICT della PA, `Capitolo 2.1, Piano Triennale per la Trasformazione Digitale <https://pianotriennale-ict.readthedocs.io/it/latest/_images/figura4.svg>`_.
       
 ..
 
 **Agenda Digitale Europea**
---------------------------------
+---------------------------
+
 La `Dichiarazione Ministeriale su eGovernment <https://ec.europa.eu/digital-single-market/en/news/communication-eu-egovernment-action-plan-2016-2020-accelerating-digital-transformation>`_ sottoscritta dall’Italia a Tallinn lo scorso ottobre 2017 impegna il nostro Paese, così come gli altri Stati Membri, alla realizzazione dei principi e degli obiettivi dell `eGovernment Action Plan 2016-2020 <https://ec.europa.eu/digital-single-market/en/news/communication-eu-egovernment-action-plan-2016-2020-accelerating-digital-transformation>`_ , che è parte integrante della strategia del `Digital Single Market europeo <https://ec.europa.eu/commission/priorities/digital-single-market_en>`_ .
 
 Il Piano Triennale ha già recepito ogni principio/obiettivo del piano europeo nella strategia della trasformazione digitale della Pubblica Amministrazione. 

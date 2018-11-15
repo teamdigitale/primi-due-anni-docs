@@ -1,12 +1,13 @@
 **Il Team per la Trasformazione Digitale della Presidenza del Consiglio dei Ministri**
-============================================================================================
+======================================================================================
+
 Il Team per la Trasformazione Digitale (unità commissariale) è la struttura di esperti a supporto del Commissario straordinario per l’attuazione dell’Agenda Digitale, nominato ai sensi dell’ `art. 63 del D.Lgs 179, 2016 <http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2016-08-26;179!vig=>`_ recante “Modifiche e integrazioni al Codice dell’amministrazione digitale”. Il Commissario straordinario è stato nominato il 16 settembre 2016 con `Decreto del Presidente del Consiglio dei Ministri <http://presidenza.governo.it/AmministrazioneTrasparente/DisposizioniGenerali/AttiGenerali/DpcmOrganismiCollegiali/DPCM_20160916_CommStraord_AgendaDigitale.pdf>`_ per esercitare *poteri di impulso e coordinamento, nonché fornire indicazioni a soggetti pubblici e privati per la realizzazione delle azioni, iniziative ed opere essenziali, connesse e strumentali all’attuazione dell’Agenda digitale italiana, anche in coerenza con gli obiettivi dell’Agenda digitale europea* [4]_ .
 La struttura è stata istituita per rispondere alla mancanza di una governance centrale operativa, efficace e competente che potesse garantire il ruolo di coordinamento progettuale e dare piena attuazione all’Agenda Digitale.
 
 ..
 
 **Obiettivo**
----------------
+-------------
 
 Abbiamo scelto di focalizzarci sugli aspetti dell’Agenda relativi alla trasformazione digitale della Pubblica Amministrazione come veicolo di semplificazione e trasparenza della macchina amministrativa e della burocrazia. Abbiamo agito sia attraverso lo sviluppo di programmi esistenti sia attraverso la creazione di nuovi programmi, anche ispirandoci a modelli internazionali di successo [5]_ . Di fatto l’unità commissariale ha affiancato e supervisionato l’Agenzia per l’Italia Digitale (AgID), accelerando e completando la pubblicazione del `Piano Triennale per la Trasformazione Digitale <https://pianotriennale-ict.italia.it/>`_ , la cui stesura era in forte ritardo rispetto a quanto previsto dalla legge [6]_ .
 I temi che ricorrono in questo documento sono così riassumibili:
@@ -15,7 +16,7 @@ I temi che ricorrono in questo documento sono così riassumibili:
 
 	➔ **il Team non si è limitato alla redazione del Piano Triennale; ma ha iniziato ad operare da subito, con interventi sulle** `piattaforme abilitanti <https://pianotriennale-ict.italia.it/piattaforme-abilitanti/>`_  **in stallo (anagrafe nazionale, pagamenti digitali e identità digitale), con interventi intensivi per garantire rilancio e sviluppo dei progetti, introducendo meccanismi e processi strutturati e reclutando competenze tecnologiche e manageriali specifiche.** Al termine del mandato i programmi dovrebbero essere ricollocati presso gli “owner” più adatti alla loro gestione permanente e continua evoluzione.
 
-	➔ il Team negli ultimi mesi si è dedicato al ripensamento, alla progettazione e al lancio di alcuni servizi che, per loro utilità e frequenza d’uso, hanno importanti ricadute sulla vita dei cittadini (servizi *flagship*). **L’innovazione più dirompente ha riguardato la creazione di io.italia.it, l’app con la quale in futuro il cittadino  interagirà con la pubblica amministrazione.** In questo modo il Team ha aperto la strada per altre amministrazioni su come ripensare i servizi in digitale per il cittadino.
+	➔ il Team negli ultimi mesi si è dedicato al ripensamento, alla progettazione e al lancio di alcuni servizi che, per loro utilità e frequenza d’uso, hanno importanti ricadute sulla vita dei cittadini (servizi *flagship*). **L’innovazione più dirompente ha riguardato la creazione di** `io.italia.it <https://io.italia.it/>`_\ **, l’app con la quale in futuro il cittadino  interagirà con la pubblica amministrazione.** In questo modo il Team ha aperto la strada per altre amministrazioni su come ripensare i servizi in digitale per il cittadino.
 
 	➔ **il Commissario, in base all’esperienza accumulata nel corso delle attività svolte, ha redatto una serie di raccomandazioni per il Governo,** finalizzate a:
 		
@@ -28,7 +29,8 @@ I temi che ricorrono in questo documento sono così riassumibili:
 ..
 
 **Competenze e budget**
----------------------------
+-----------------------
+
 Il Team per la Trasformazione Digitale è composto da 29 esperti, assunti al di fuori dalla Pubblica Amministrazione, con competenze prevalentemente manageriali e tecnologiche: *technical program management, software development, software architecture, open source software, cybersecurity,* pagamenti digitali, *product e content design, user experience, big data, machine learning, data science,* metriche e analisi dati. Il Team comprende anche esperti in diritto, comunicazione, economia.
 
 La struttura amministrativa a supporto è costituita da 1 dirigente e 7 funzionari provenienti dalla pubblica amministrazione con competenze specialistiche in materia di acquisto di beni e servizi.
