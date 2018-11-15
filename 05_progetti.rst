@@ -570,7 +570,7 @@ Le amministrazioni pubbliche titolari di set di dati, ad esclusione delle autori
       .. figure:: _image/alpha_daf.png
          :alt: versione alpha portale daf
                
-         Versione alfa del dataportal della `Piattaforma Digitale Nazionale Dati <https://teamdigitale.governo.it/it/projects/daf.htm>`_.
+         Versione alfa del dataportal della Piattaforma Digitale Nazionale Dati.
 		       
 ..
 

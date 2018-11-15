@@ -47,21 +47,21 @@ L’esecuzione di questo progetto necessita della costituzione di un team dedica
       .. figure:: _image/sito_ioitalia.png
          :alt: io.italia
                
-         Sito `io.italia.it <https://io.italia.it/>`_ per spiegare al cittadino l’applicazione e la sua prossima uscita in beta.
+         Sito io.italia.it per spiegare al cittadino l’applicazione e la sua prossima uscita in beta.
 		       
 ..
 
       .. figure:: _image/app_ioitalia.png
          :alt: app io.italia
                
-         Mockup funzionalità messaggi, pagamenti e archivio documenti dell’app `io.italia.it <https://io.italia.it/>`_.
+         Mockup funzionalità messaggi, pagamenti e archivio documenti dell’app io.italia.it.
       
 ..
 
 **Domicilio digitale**
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Abbiamo lavorato con Infocamere per la realizzazione del servizio che consentirà a tutti i cittadini di eleggere il proprio domicilio digitale, definendo la user experience e progettando l’interfaccia dell’applicazione web collegata al servizio. Il domicilio digitale sarà integrato all’interno di `io.italia.it <https://io.italia.it/>`_. [36]_ .
+Abbiamo lavorato con Infocamere per la realizzazione del servizio che consentirà a tutti i cittadini di eleggere il proprio domicilio digitale, definendo la user experience e progettando l’interfaccia dell’applicazione web collegata al servizio. Il domicilio digitale sarà integrato all’interno di `io.italia.it <https://io.italia.it/>`_. [36]_ 
 
 ..
 
