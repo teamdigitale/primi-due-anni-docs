@@ -50,6 +50,7 @@ Il Piano Triennale dovrà essere aggiornato a settembre di ogni anno e fissa gli
                
          Mappa del modello strategico di evoluzione del sistema ICT della PA, `Capitolo 2.1, Piano Triennale per la Trasformazione Digitale <https://pianotriennale-ict.readthedocs.io/it/latest/_images/figura4.svg>`_.
       
+Il Piano Triennale fornisce alla imprese italiane dedicate all'innovazione e al digitale una visione a medio e lungo termine delle direttrici d'investimento della pubblica amministrazione verso le quali indirizzare la costruzione delle proprie competenze e lo sviluppo di un mercato sano e duraturo. Infrastrutture cloud nazionali, sviluppo di software applicativo di qualità, revisione strutturale dei processi di erogazione dei servizi ai cittadini necessitano di una forte interazione con le aziende private.
 ..
 
 **Agenda Digitale Europea**
