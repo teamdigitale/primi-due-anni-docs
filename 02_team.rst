@@ -36,9 +36,9 @@ Il Team per la Trasformazione Digitale è composto da 29 esperti, assunti al di 
 
 La struttura amministrativa a supporto è costituita da 1 dirigente e 7 funzionari provenienti dalla pubblica amministrazione con competenze specialistiche in materia di acquisto di beni e servizi.
 
-La struttura è stata dotata di €11 milioni nel 2017 e di €20 milioni nel 2018 [8]_ .
+La struttura è stata dotata di €6.1 milioni nel 2016, €11 milioni nel 2017 e di €20 milioni nel 2018 [8]_ .
 
-Le spese fino ad ora sostenute dal Team sono `qui <https://teamdigitale.governo.it/it/spese.htm>`_  pubblicate; alla data del 28 settembre 2018, il Team ha impegnato un totale di circa €10 milioni e speso un totale di circa €7.6 milioni dall’inizio del mandato
+Le spese fino ad ora sostenute dal Team sono `qui <https://teamdigitale.governo.it/it/spese.htm>`_  pubblicate; alla data del 28 settembre 2018, il Team ha impegnato un totale di circa €10 milioni e speso un totale di circa €7.6 milioni dall’inizio del mandato.
 
 ..
 
