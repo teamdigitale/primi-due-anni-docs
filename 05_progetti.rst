@@ -3,10 +3,9 @@
 ========================================
 
 Il Team sta interagendo positivamente con gli attori principali dei processi di digitalizzazione quali Consip, Sogei, IPZS, Aci informatica, Infocamere, varie inhouse regionali e locali; in alcuni casi, questa interazione si è tradotta nell’avvio di un processo di trasformazione digitale interna e di utilizzo di metodi di sviluppo agili e iterativi delle inhouse stesse.
-
 Come si può essere infatti attori del processo di trasformazione digitale della PA se l’attore stesso non è digitalizzato (vedi AgID)?
 
-**Il Team inoltre ha avviato un processo di interazione con quelle pubbliche amministrazioni virtuose che hanno scelto di intraprendere la strada della trasformazione digitale, avviando di fatto un modello collaborativo di riferimento la cui mancanza era uno dei maggiori ostacoli ai processi d’ innovazione della PA.** 
+**Il Team inoltre ha avviato un processo di interazione con quelle pubbliche amministrazioni virtuose che hanno scelto di intraprendere la strada della trasformazione digitale, avviando di fatto un modello collaborativo di riferimento la cui mancanza era uno dei maggiori ostacoli ai processi d’innovazione della PA.** 
 
 **Il Team sta collaborando ad esempio con i Comuni di Roma, Torino, Milano, e numerosi comuni minori, e con le PA centrali quali la Corte dei Conti, l’Agenzia delle Entrate, l’INPS e molti altri.**
 
@@ -16,7 +15,7 @@ Come si può essere infatti attori del processo di trasformazione digitale della
       .. figure:: _image/lista_progetti.png
          :alt: lista progetti in corso
                
-         Lista dei progetti sul sito del `Team della Trasformazione Digitale <https://teamdigitale.governo.it/>`_ .
+         Lista dei progetti sul sito del `Team della Trasformazione Digitale <https://teamdigitale.governo.it/>`_.
       
 ..
 
@@ -49,10 +48,6 @@ Abbiamo lavorato con l’Agenzia per l’Italia Digitale e con Consip:
 
 	➔ alla progettazione del `Cloud Marketplace <https://cloud.italia.it/projects/cloud-italia-docs/it/latest/cloud-della-pa.html#il-marketplace-delle-infrastrutture-e-dei-servizi-cloud>`_, la piattaforma integrata con gli strumenti di Consip che raccoglierà i servizi cloud qualificati da AgID e li renderà comparabili e consultabili a tutte le amministrazioni.
 
-	➔ valorizzando *l’open source* e affiancando agli obblighi di riuso del software gli strumenti dove poterlo rilasciare e pubblicare, rendendo così il CAD una delle leggi più avanzate in Europa per *l’open source*;
-
-	➔ istituzionalizzando, con l’introduzione dell’ `art. 50-ter  <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo5_sezione1_art50-ter.html>`_  del CAD, la *Piattaforma Digitale Nazionale Dati*, una piattaforma di *big data* che permette l’abbattimento dei silos tramite la raccolta, condivisione via API, visualizzazione e analisi di dati della pubblica amministrazione con strumenti di *data science e machine learning* .
-
 Abbiamo elaborato inoltre un percorso di abilitazione al cloud per facilitare la migrazione delle PA al nuovo paradigma.
 
 ..
@@ -60,20 +55,17 @@ Abbiamo elaborato inoltre un percorso di abilitazione al cloud per facilitare la
 **Cosa c'è da fare**
 ----------------------------
 Il ricorso ai PSN per servizi con esigenze specifiche (ad es. sicurezza nazionale) sarà cruciale.
-
 È quindi necessario che essi rispondano a chiari requisiti tecnici, di sicurezza e organizzativi come definiti nella `circolare 5/2017 di AgID <https://www.censimentoict.italia.it/it/latest/docs/circolari/2017113005.html#circolare-n-05-del-30-novembre-2017>`_ .
-
 A tal riguardo, è da considerare anche la possibilità teorica che nessuno dei data center esistenti nella PA, ad esclusione di quello di Sogei, riesca a soddisfare tali requisiti. Tutti i restanti servizi dovranno migrare invece verso il Cloud della PA.
 
 I PSN necessiteranno di un coordinamento centrale, così da garantire funzionalità e livelli di servizio omogenei. La realizzazione fisica e la gestione operativa potrebbero invece essere lasciate ad una terza parte, che sia affidabile, capace di organizzare, sviluppare e mantenere le infrastrutture nel tempo, secondo quanto disposto dalla governance centrale.
 
 A tal proposito, è opportuno citare l’esperienza del Governo britannico, che ha individuato un partner privato tramite gara per costruire l’unica l’infrastruttura fisica nazionale di data center dedicata: il `Crown Hosting Data Centres <https://crownhostingdc.co.uk/>`_ .
 
-L’adozione del modello cloud invece cambierà i requisiti sulla connettività rendendo obsoleti l’architettura SPC e il `Contratto Quadro SPC 2 Connettività <http://www.consip.it/media/news-e-comunicati/connettivit%C3%A0-spc-2-aggiornamenti-sul-contratto-quadro-spc-2-e-sulle-migrazioni-da-spc-1-a-spc-2>`_ , e richiedendo l’adozione di un nuovo modello che privilegi l’accesso alla rete pubblica senza necessità di una intranet dedicata.
-
+L’adozione del modello cloud invece cambierà i requisiti sulla connettività rendendo obsoleti l’architettura SPC e il `Contratto Quadro SPC 2 Connettività <http://www.consip.it/media/news-e-comunicati/connettivit%C3%A0-spc-2-aggiornamenti-sul-contratto-quadro-spc-2-e-sulle-migrazioni-da-spc-1-a-spc-2>`_, e richiedendo l’adozione di un nuovo modello che privilegi l’accesso alla rete pubblica senza necessità di una intranet dedicata.
 Per gestire questo programma occorre un team dedicato con forti competenze tecniche e di project management, di cui AgID è oggi sprovvista, nonché una squadra di persone sul territorio che possano affiancare le amministrazioni locali durante il processo di migrazione.
 
-**Per la continuazione di questo progetto suggeriamo la costituzione di una nuova unità di almeno 25 persone, con competenze in architetture cloud, technical program management, cybersecurity e privacy, interna al Dipartimento per la Trasformazione Digitale della Presidenza del Consiglio o al Ministero dell’Economia e delle Finanze - Ragioneria Generale dello Stato (vedi sezione** :doc:`09_raccomandazioni` **), nonché 100 persone in supporto alle amministrazioni locali sul territorio per l’esecuzione del programma.**
+**Per la continuazione di questo progetto suggeriamo la costituzione di una nuova unità di almeno 25 persone, con competenze in architetture cloud, technical program management, cybersecurity e privacy, interna al Dipartimento per la Trasformazione Digitale della Presidenza del Consiglio o al Ministero dell’Economia e delle Finanze - Ragioneria Generale dello Stato (vedi sezione** :doc:`09_raccomandazioni`\ **), nonché 100 persone in supporto alle amministrazioni locali sul territorio per l’esecuzione del programma.**
 
 **Gli esperti del Team per la Trasformazione Digitale che lavorano attualmente a questo progetto sarebbero disponibili a far parte di questa squadra.**
 
