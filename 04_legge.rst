@@ -4,9 +4,9 @@
 **Contesto**
 --------------
 
-**La trasformazione digitale della Pubblica Amministrazione necessita di un quadro normativo e regolatorio flessibile e neutrale rispetto alle scelte tecnologiche** [9]_ . 
+**La trasformazione digitale della Pubblica Amministrazione necessita di un quadro normativo e regolatorio flessibile e neutrale rispetto alle scelte tecnologiche** [9]_. 
 
-**Il** `Codice dell’Amministrazione Digitale <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/>`_  [10]_ **(CAD) presentava diverse criticità: troppe norme e regole tecniche, molto spesso di dettaglio e contenenti scelte tecnologiche, che - diventando rapidamente obsolete - ostacolano l’innovazione e la diffusione di una strategia di trasformazione digitale.**
+**Il** `Codice dell’Amministrazione Digitale <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/>`_  [10]_\ **(CAD) presentava diverse criticità: troppe norme e regole tecniche, molto spesso di dettaglio e contenenti scelte tecnologiche, che - diventando rapidamente obsolete - ostacolano l’innovazione e la diffusione di una strategia di trasformazione digitale.**
 
 ..
 

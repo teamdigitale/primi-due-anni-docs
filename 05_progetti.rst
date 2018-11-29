@@ -27,7 +27,7 @@ Come si può essere infatti attori del processo di trasformazione digitale della
 **Contesto**
 ------------
 
-**Le infrastrutture fisiche della PA sono molto frammentate e spesso tecnologicamente inadeguate nonostante il fatto che la quota relativa ai data center risulti essere stimata** `circa il 39%  <https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/stabile/doc/allegati/3_quadro-sinottico-della-spesa-ict-nelle-pubbliche-amministrazioni-centrali.html>`_ **delle spese in infrastrutture fisiche (€681 Mln) effettuate dalle pubbliche amministrazioni centrali** [13]_ .
+**Le infrastrutture fisiche della PA sono molto frammentate e spesso tecnologicamente inadeguate nonostante il fatto che la quota relativa ai data center risulti essere stimata** `circa il 39%  <https://docs.italia.it/italia/piano-triennale-ict/pianotriennale-ict-doc/it/stabile/doc/allegati/3_quadro-sinottico-della-spesa-ict-nelle-pubbliche-amministrazioni-centrali.html>`_ **delle spese in infrastrutture fisiche (€681 Mln) effettuate dalle pubbliche amministrazioni centrali** [13]_.
 
 Il Piano Triennale ha delineato un processo di razionalizzazione con lo scopo di ridurre gli oneri di gestione e la spesa in ICT e, al contempo, favorire l’erogazione di servizi più adeguati alle esigenze di cittadini ed imprese. Tale processo è imperniato su una radicale migrazione verso il paradigma *cloud* e l’uso di un numero ristretto di *data center* - i Poli Strategici Nazionali (PSN).
 
@@ -55,7 +55,7 @@ Abbiamo elaborato inoltre un percorso di abilitazione al cloud per facilitare la
 **Cosa c'è da fare**
 ----------------------------
 Il ricorso ai PSN per servizi con esigenze specifiche (ad es. sicurezza nazionale) sarà cruciale.
-È quindi necessario che essi rispondano a chiari requisiti tecnici, di sicurezza e organizzativi come definiti nella `circolare 5/2017 di AgID <https://www.censimentoict.italia.it/it/latest/docs/circolari/2017113005.html#circolare-n-05-del-30-novembre-2017>`_ .
+È quindi necessario che essi rispondano a chiari requisiti tecnici, di sicurezza e organizzativi come definiti nella `circolare 5/2017 di AgID <https://www.censimentoict.italia.it/it/latest/docs/circolari/2017113005.html#circolare-n-05-del-30-novembre-2017>`_.
 A tal riguardo, è da considerare anche la possibilità teorica che nessuno dei data center esistenti nella PA, ad esclusione di quello di Sogei, riesca a soddisfare tali requisiti. Tutti i restanti servizi dovranno migrare invece verso il Cloud della PA.
 
 I PSN necessiteranno di un coordinamento centrale, così da garantire funzionalità e livelli di servizio omogenei. La realizzazione fisica e la gestione operativa potrebbero invece essere lasciate ad una terza parte, che sia affidabile, capace di organizzare, sviluppare e mantenere le infrastrutture nel tempo, secondo quanto disposto dalla governance centrale.
@@ -106,7 +106,7 @@ Abbiamo attuato una revisione dei processi, del piano di lavoro e concordato l�
 
 Abbiamo creato uno strumento per la pianificazione del lavoro tecnico e di bonifica dei dati anagrafici (piattaforma per la pianificazione dei subentri), e creato **dashboard pubbliche** con lo stato di avanzamento e le previsioni. Abbiamo inoltre collaborato con il Dipartimento della Funzione Pubblica alla **pubblicazione di un bando** che prevede un contributo economico - fondi europei del PON Governance - per gli enti locali che subentreranno in ANPR.
 
-Le diverse modalità di gestione operativa e tecnica hanno determinato il rilancio di ANPR. Dalla migrazione di 13 comuni all’agosto 2017, a più di 5 anni dalla legge, si è passati a `715 comuni <https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53>`_, pari ad una popolazione di `9.8 milioni <https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53>`_  di persone, inclusi il comune di Milano e Torino entrati in ANPR nel mese di luglio 2018. Inoltre `1737 comuni <https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53>`_, pari ad una popolazione di `10.7 milioni <https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53>`_  di persone, sono attualmente in fase di test per il subentro [16]_ . Ormai siamo ad una media di 9 comuni al giorno e l’obiettivo di avere in ANPR l’80% dei dati della popolazione italiana entro il 31/12/2019 è realistico.
+Le diverse modalità di gestione operativa e tecnica hanno determinato il rilancio di ANPR. Dalla migrazione di 13 comuni all’agosto 2017, a più di 5 anni dalla legge, si è passati a `715 comuni <https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53>`_, pari ad una popolazione di `9.8 milioni <https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53>`_  di persone, inclusi il comune di Milano e Torino entrati in ANPR nel mese di luglio 2018. Inoltre `1737 comuni <https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53>`_, pari ad una popolazione di `10.7 milioni <https://dashboard.teamdigitale.governo.it/public/dashboard/2414d40b-9273-4e54-83ae-df346826fc53>`_  di persone, sono attualmente in fase di test per il subentro [16]_. Ormai siamo ad una media di 9 comuni al giorno e l’obiettivo di avere in ANPR l’80% dei dati della popolazione italiana entro il 31/12/2019 è realistico.
 
 ..
 
@@ -152,17 +152,17 @@ Sogei dovrà nel frattempo adeguare ANPR al nuovo modello di interoperabilità v
 **Contesto**
 ------------
 
-Nel 2011 è stato istituito per legge pagoPA [17]_ , il nodo unico dei pagamenti pubblici italiani per pagare tributi, tasse universitarie e mense scolastiche, multe, TARI e tutti i tributi e servizi delle pubbliche amministrazioni.
+Nel 2011 è stato istituito per legge pagoPA [17]_, il nodo unico dei pagamenti pubblici italiani per pagare tributi, tasse universitarie e mense scolastiche, multe, TARI e tutti i tributi e servizi delle pubbliche amministrazioni.
 
 **L’obiettivo di pagoPA è di portare a una semplificazione, sia per i cittadini che per le amministrazioni, nella gestione dei pagamenti dei servizi pubblici e la completa eliminazione del contante.**
 
 PagoPA permette alla Pubblica Amministrazione di gestire i pagamenti in modo centralizzato, offrendo servizi automatici di rendicontazione e riconciliazione verso uno (o più) conti correnti dello Stato, senza errori e con un significativo risparmio nei costi di gestione, e a ogni cittadino di scegliere come e con quali strumenti pagare, sia online che offline, evitando le code agli sportelli e usando metodi di pagamento moderni e innovativi nel rispetto delle normative europee (**Payment Service Directives**).
 
-Grazie a pagoPA ogni cittadino risparmia in media €110 all’anno e la PA €1.1 Mld [18]_ .
+Grazie a pagoPA ogni cittadino risparmia in media €110 all’anno e la PA €1.1 Mld [18]_.
 
 La piattaforma era coordinata da AgID e realizzata tecnologicamente da SIA, società partecipata da Cassa depositi e prestiti (CDP), che è risultata il candidato più idoneo grazie all’unicità delle sue competenze nella progettazione, realizzazione e gestione di infrastrutture e servizi tecnologici dedicati alle istituzioni finanziarie, tra cui la Rete Nazionale Interbancaria e le infrastrutture di 18 mercati finanziari europei.
 
-**La piattaforma era stata lanciata a gennaio del 2014 ma, seppure le amministrazioni pubbliche avessero l’obbligo di aderirvi entro il 31 dicembre 2015** [19]_ **, pochi erano i servizi che la utilizzavano; dal rilascio di pagoPA a dicembre 2016 erano state completate circa 900.000 transazioni, a fronte delle centinaia di milioni di pagamenti che ogni anno vengono effettuati per i servizi pubblici.**
+**La piattaforma era stata lanciata a gennaio del 2014 ma, seppure le amministrazioni pubbliche avessero l’obbligo di aderirvi entro il 31 dicembre 2015** [19]_\ **, pochi erano i servizi che la utilizzavano; dal rilascio di pagoPA a dicembre 2016 erano state completate circa 900.000 transazioni, a fronte delle centinaia di milioni di pagamenti che ogni anno vengono effettuati per i servizi pubblici.**
 
 ..
 
@@ -225,9 +225,9 @@ Più specificatamente suggeriamo di valutare il seguente approccio:
 
 	➔ continuare ad affidare in outsourcing a SIA l’evoluzione tecnologica della piattaforma, considerati l’ottimo lavoro fino ad ora svolto e la sua specifica competenza nel settore dei pagamenti.
 
-**Alla luce della creazione dei meccanismi operativi, tecnologici e finanziari sopra descritti, le amministrazioni pubbliche locali e centrali non hanno più ragioni per non integrare pagoPA all’interno dei propri servizi di pagamento. Suggeriamo quindi di prevedere sanzioni da parte del MEF per quelle amministrazioni che, entro il 31/12/2019** [21]_ **, non avranno ancora adottato pagoPA.**
+**Alla luce della creazione dei meccanismi operativi, tecnologici e finanziari sopra descritti, le amministrazioni pubbliche locali e centrali non hanno più ragioni per non integrare pagoPA all’interno dei propri servizi di pagamento. Suggeriamo quindi di prevedere sanzioni da parte del MEF per quelle amministrazioni che, entro il 31/12/2019** [21]_\ **, non avranno ancora adottato pagoPA.**
 
-**Nota bene: adottare pagoPA significa attivare la piattaforma dei pagamenti all’interno dei propri sistemi secondo le linee guida stabilite e smettere di accettare transazioni di pagamento con altri sistemi, e non semplicemente firmare la convenzione (come invece si limitava a fare AgID)** [22]_ .
+**Nota bene: adottare pagoPA significa attivare la piattaforma dei pagamenti all’interno dei propri sistemi secondo le linee guida stabilite e smettere di accettare transazioni di pagamento con altri sistemi, e non semplicemente firmare la convenzione (come invece si limitava a fare AgID)** [22]_.
 
 ..
 	
@@ -274,7 +274,7 @@ Più specificatamente suggeriamo di valutare il seguente approccio:
 **Contesto**
 ------------
 
-`SPID <https://teamdigitale.governo.it/it/projects/identita-digitale.htm>`_ [23]_ , il Sistema Pubblico di Identità Digitale per l’accesso ai servizi pubblici digitali, è stato istituito nel 2013. `CIE <http://www.cartaidentita.interno.gov.it/>`_ [24]_ , la Carta d’Identità Elettronica, è stata istituita nel 2015.
+`SPID <https://teamdigitale.governo.it/it/projects/identita-digitale.htm>`_ [23]_, il Sistema Pubblico di Identità Digitale per l’accesso ai servizi pubblici digitali, è stato istituito nel 2013. `CIE <http://www.cartaidentita.interno.gov.it/>`_ [24]_, la Carta d’Identità Elettronica, è stata istituita nel 2015.
 
 Entrambi gli strumenti sono fondamentali per permettere una identificazione sicura dei cittadini, sia online che nel mondo fisico. Essi superano i limiti delle comuni password soggette ad attacchi cyber sempre più frequenti quali il phishing e il furto di identità e della carta d’identità cartacea, il documento più falsificato d’Europa.
 
@@ -282,7 +282,7 @@ Entrambi gli strumenti sono fondamentali per permettere una identificazione sicu
 
 All’inizio della nostra attività, il progetto SPID, gestito da AgID, presentava criticità di governance, di scelte tecnologiche, di mancanza di processi chiari e documentati e di assenza di un chiaro piano di dispiegamento nei servizi pubblici digitali (AgID si limitava alla firma delle convenzioni, e non era organizzata per la gestione operativa). Il progetto CIE era invece in stato più avanzato, beneficiando dell’esperienza e delle capacità operative e tecnologiche dell’\ `Istituto Poligrafico e Zecca dello Stato <https://www.ipzs.it/ext/index.html>`_ (IPZS).
 
-**Le criticità di SPID erano anche determinate dalla scelta, assunta all’origine, di creare un programma per l’identità digitale a invarianza di risorse per lo Stato** [25]_ **, affidando la realizzazione e gestione di SPID a un numero non limitato di Identity Provider privati.**
+**Le criticità di SPID erano anche determinate dalla scelta, assunta all’origine, di creare un programma per l’identità digitale a invarianza di risorse per lo Stato** [25]_\ **, affidando la realizzazione e gestione di SPID a un numero non limitato di Identity Provider privati.**
 
 Questa decisione ha causato scelte strategiche, tecnologiche e di esperienza utente disomogenee, rendendo difficile la governance e un coordinamento centrale. In particolare, gli Identity Provider sono alla ricerca di un modello di business sostenibile, la cui fattibilità mette a rischio la gratuità dell’identità per i cittadini, e rende complessa ogni evoluzione tecnologica che deve essere sempre faticosamente negoziata. A nostro avviso, la gratuità per il cittadino di SPID è fattore determinante e imprescindibile per la sua diffusione.
 
@@ -396,7 +396,7 @@ Mentre non siamo certamente in grado di risolvere l’aspetto soggettivo del pro
 
 Nell’ambito della creazione di soluzioni tecnologiche per lo sviluppo di servizi pubblici digitali, un approccio open passa dall’adozione di standard e dallo sviluppo di software aperti, e dal rilascio di API documentate pubblicamente, intorno alle quali poter coinvolgere attivamente una comunità di sviluppatori e fornitori di tecnologia che crei innovazione.
 
-Grazie a questo approccio, basato sull’open source, è possibile creare un patrimonio pubblico di software riutilizzato tra più amministrazioni, e attuare le previsioni degli art. `68 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo6_art68.html>`_  e `69 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo6_art69.html>`_  del `Codice dell’Amministrazione Digitale <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/>`_, che rendono il riuso di soluzioni software obbligatorio; obbligo finora puntualmente disatteso anche perché le amministrazioni non avevano gli strumenti adatti per farlo. Questo ha determinato da una parte un ingente spreco di risorse e dall’altra la mancanza di una reale innovazione; ne ha conseguito che a fronte di una spesa ICT di 5,6 miliardi per anno l’impatto reale sul cambiamento dello status quo è stato molto basso . Solo a livello centrale la spesa in nuovi progetti software, che non tiene quindi conto di software open source o del riuso di software precedentemente sviluppato, ammonta a circa €621 milioni [26]_ .
+Grazie a questo approccio, basato sull’open source, è possibile creare un patrimonio pubblico di software riutilizzato tra più amministrazioni, e attuare le previsioni degli art. `68 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo6_art68.html>`_  e `69 <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/_rst/capo6_art69.html>`_  del `Codice dell’Amministrazione Digitale <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/>`_, che rendono il riuso di soluzioni software obbligatorio; obbligo finora puntualmente disatteso anche perché le amministrazioni non avevano gli strumenti adatti per farlo. Questo ha determinato da una parte un ingente spreco di risorse e dall’altra la mancanza di una reale innovazione; ne ha conseguito che a fronte di una spesa ICT di 5,6 miliardi per anno l’impatto reale sul cambiamento dello status quo è stato molto basso . Solo a livello centrale la spesa in nuovi progetti software, che non tiene quindi conto di software open source o del riuso di software precedentemente sviluppato, ammonta a circa €621 milioni [26]_.
 
 **Per aiutare la Pubblica Amministrazione a non pagare più volte lo stesso software, stiamo creando gli strumenti per il riuso.**
 
@@ -409,11 +409,11 @@ Grazie a questo approccio, basato sull’open source, è possibile creare un pat
 
 Abbiamo creato due strumenti di comunicazione, dialogo, confronto e trasparenza per i cittadini, i funzionari pubblici e i fornitori di tecnologia:
 
-	➔ `Docs Italia <https://docs.developers.italia.it/>`_, che con l’ausilio di un team dedicato di scrittori tecnici (tech writers) raccoglie e mette a disposizione la documentazione tecnica dei servizi pubblici digitali in un punto unico e permette di condividere i documenti in consultazione pubblica [27]_ , di raccogliere contributi e suggerimenti, di aggiornare la documentazione e tenere traccia delle successive evoluzioni;
+	➔ `Docs Italia <https://docs.developers.italia.it/>`_, che con l’ausilio di un team dedicato di scrittori tecnici (tech writers) raccoglie e mette a disposizione la documentazione tecnica dei servizi pubblici digitali in un punto unico e permette di condividere i documenti in consultazione pubblica [27]_, di raccogliere contributi e suggerimenti, di aggiornare la documentazione e tenere traccia delle successive evoluzioni;
 
 	➔ `Forum Italia <https://forum.italia.it/>`_, la piattaforma dove cittadini, dipendenti pubblici e fornitori di tecnologia possono confrontarsi su diversi temi della trasformazione digitale, condividere informazioni, chiedere e fornire suggerimenti e contribuire con nuove idee.
 
-Abbiamo rilasciato su Docs Italia in consultazione pubblica `14 Linee Guida <https://forum.italia.it/c/documenti-in-consultazione?order=posts>`_, che hanno generato più di 300 commenti e suggerimenti di modifica al testo da parte di cittadini, funzionari pubblici e fornitori di tecnologia. Su Forum Italia si sono iscritti circa 2500 utenti, che hanno avviato discussioni su più di 1200 argomenti, con una media di 11 messaggi ad argomento [28]_ .
+Abbiamo rilasciato su Docs Italia in consultazione pubblica `14 Linee Guida <https://forum.italia.it/c/documenti-in-consultazione?order=posts>`_, che hanno generato più di 300 commenti e suggerimenti di modifica al testo da parte di cittadini, funzionari pubblici e fornitori di tecnologia. Su Forum Italia si sono iscritti circa 2500 utenti, che hanno avviato discussioni su più di 1200 argomenti, con una media di 11 messaggi ad argomento [28]_.
 
 Abbiamo inoltre creato `Developers Italia <https://developers.italia.it/>`_ e `Designers Italia <https://designers.italia.it/>`_, le piattaforme di community per lo sviluppo e il design dei servizi pubblici digitali.
 
@@ -477,7 +477,7 @@ Per lo stesso motivo, è stata avviata la creazione di un catalogo del software 
 **Contesto**
 ------------
 
-**L’interoperabilità è la capacità delle applicazioni software di interagire tra loro mettendo in atto procedure coordinate e condivise tra le varie piattaforme, ed è condizione necessaria per l’attuazione del principio** `once-only <https://ec.europa.eu/digital-single-market/en/news/once-only-principle-toop-project-launched-january-2017>`_ **previsto dall’**\ `eGovernment Action Plan 2016-2020 <https://ec.europa.eu/digital-single-market/en/news/communication-eu-egovernment-action-plan-2016-2020-accelerating-digital-transformation>`_ **- l’Ue stima un risparmio annuo a livello europeo di € 5 miliardi che potrebbe venire solo dall’implementazione di questo principio** [29]_ . **Tutto ciò è necessario per realizzare la visione nota anche come** `Government as a Platform <https://www.accenture.com/us-en/insights/public-service/government-as-a-platform>`_ .
+**L’interoperabilità è la capacità delle applicazioni software di interagire tra loro mettendo in atto procedure coordinate e condivise tra le varie piattaforme, ed è condizione necessaria per l’attuazione del principio** `once-only <https://ec.europa.eu/digital-single-market/en/news/once-only-principle-toop-project-launched-january-2017>`_ **previsto dall’**\ `eGovernment Action Plan 2016-2020 <https://ec.europa.eu/digital-single-market/en/news/communication-eu-egovernment-action-plan-2016-2020-accelerating-digital-transformation>`_ **- l’Ue stima un risparmio annuo a livello europeo di € 5 miliardi che potrebbe venire solo dall’implementazione di questo principio** [29]_. **Tutto ciò è necessario per realizzare la visione nota anche come** `Government as a Platform <https://www.accenture.com/us-en/insights/public-service/government-as-a-platform>`_ .
 
 La legislazione italiana prevede già, all’interno del `Codice dell’Amministrazione Digitale <https://docs.italia.it/italia/piano-triennale-ict/codice-amministrazione-digitale-docs/it/v2017-12-13/>`_, la possibilità di interconnettere le piattaforme tecnologiche della Pubblica Amministrazione, e il `Piano Triennale <https://pianotriennale-ict.italia.it/>`_  [30]_ affronta il tema nello specifico capitolo sull’Interoperabilità dove si indica la necessità di un nuovo modello di cooperazione applicativa basato su API, che superi il modello attualmente in vigore.
 Tale modello, chiamato `SPCoop <https://www.agid.gov.it/it/infrastrutture/sistema-pubblico-connettivita/connettivita>`_, fu definito dal CNIPA (oggi AgID) tra il 2005 e il 2008, richiede processi di integrazione complessi e costosi che non considerano le interazioni con i privati, e soffre di una impostazione concettuale obsoleta.
@@ -632,7 +632,7 @@ Abbiamo inoltre creato su Docs Italia una mappa interattiva del CAD che comprend
 
 La mancanza di questi elementi porta le amministrazioni a essere esposte, quasi sempre inconsapevolmente, ad attacchi informatici periodici (e potenzialmente pericolosi), *data breach*, *information leakage*, *data loss* e *DDoS*.
 
-La recente approvazione del Piano Nazionale Cyber [32]_ , che prevede il consolidamento di una governance per la *cybersecurity* guidata dal Dipartimento Informazione e Sicurezza della Presidenza del Consiglio dei Ministri, rappresenta un elemento importante per la definizione e continua evoluzione di una strategia per la sicurezza delle infrastrutture ICT della PA.
+La recente approvazione del Piano Nazionale Cyber [32]_, che prevede il consolidamento di una governance per la *cybersecurity* guidata dal Dipartimento Informazione e Sicurezza della Presidenza del Consiglio dei Ministri, rappresenta un elemento importante per la definizione e continua evoluzione di una strategia per la sicurezza delle infrastrutture ICT della PA.
 
 ..
 
@@ -641,7 +641,7 @@ La recente approvazione del Piano Nazionale Cyber [32]_ , che prevede il consoli
 
 Abbiamo inserito all’interno del Piano Triennale per la Trasformazione Digitale `misure minime di sicurezza <https://pianotriennale-ict.italia.it/sicurezza/>`_ per l’infrastruttura ICT della pubblica amministrazione. Nonostante l’attività di *cybersecurity* non rientri tra i compiti formali del Team, il nostro esperto di *cybersecurity* è diventato un punto di riferimento per numerosi enti ed amministrazioni, inclusi il CERT-PA e il CERT-Nazionale, per la risposta ad attacchi informatici e per il supporto nella messa in sicurezza delle proprie infrastrutture attraverso attività di *Incident Response* e *Root Cause analysis*, la creazione di processi e misure preventive di sicurezza, la revisione architetturale dei propri network, infrastrutture IT e applicazioni esposte sulla rete, e la creazione di *penetration test* e *vulnerability assessments*.
 
-**Inoltre stiamo spingendo - come è stato fatto in Olanda, Francia e Lituania e negli Stati Uniti con l’adozione di specifici framework normativi - l’introduzione di programmi di** `Responsible Disclosure <https://medium.com/team-per-la-trasformazione-digitale/sicurezza-informatica-policy-responsible-disclosure-hacker-etici-52a174d44c49>`_ [33]_ **, anche con l’aggiunta di un bug bounty** [34]_.
+**Inoltre stiamo spingendo - come è stato fatto in Olanda, Francia e Lituania e negli Stati Uniti con l’adozione di specifici framework normativi - l’introduzione di programmi di** `Responsible Disclosure <https://medium.com/team-per-la-trasformazione-digitale/sicurezza-informatica-policy-responsible-disclosure-hacker-etici-52a174d44c49>`_ [33]_\ **, anche con l’aggiunta di un bug bounty** [34]_.
 
 Abbiamo infatti contribuito, all’interno della *task force* del *Centre for European Policy Studies* dedicata alla *Software Vulnerability Disclosure* in Europa, all’identificazione dei necessari strumenti di *policy* da adottare a livello europeo e a livello di singoli Stati Membri, per permettere l’adozione all’interno della pubblica amministrazione di processi di *Coordinated Vulnerability Disclosure*, fondamentali per la messa in sicurezza delle infrastrutture della PA.
 
