@@ -27,7 +27,7 @@ Tenendo come riferimento questo approccio, ci siamo concentrati sulla progettazi
 	
 	➔ un nuovo modello di siti web per le tutte le scuole italiane.
 
-L’intervento più radicale e innovativo riguarda la creazione di `io.italia.it <https://io.italia.it/>`_ l’app con la quale in futuro il cittadino interagirà con la pubblica amministrazione.
+L’intervento più radicale e innovativo riguarda la creazione di `io.italia.it <https://io.italia.it/>`_, l’app con la quale in futuro il cittadino interagirà con la pubblica amministrazione.
 
 ..
 
@@ -38,9 +38,9 @@ Stiamo sviluppando `io.italia.it <https://io.italia.it/>`_  un’applicazione al
 
 L’applicazione sarà il prodotto principale dell’integrazione delle componenti previste dal Piano Triennale, tra cui le piattaforme abilitanti SPID e pagoPA, il sistema di notifiche e documenti basato sulle API e sul modello di interoperabilità previsto dal Piano Triennale, le linee guida di design per i servizi pubblici. Incominceremo la sperimentazione del servizio ad ottobre 2018 con un numero limitato di utenti e Pubbliche Amministrazioni. Un’evoluzione dell’applicazione è l’aggiunta di un wallet digitale che permetta di ottenere e gestire accrediti dello Stato (es. contributi o rimborso delle tasse). Tutti i contributi dallo Stato al cittadino potranno essere gestiti in questo modo. Ad esempio, integrata con l’INPS, l’applicazione permetterebbe la sostituzione con una versione digitale dei voucher dei lavoratori occasionali.
 
-Questo progetto richiederà una collaborazione senza precedenti tra le pubbliche amministrazioni e il risultato positivo permetterà all’Italia di compiere un grande salto in avanti nel processo di trasformazione digitale della Pubblica Amministrazione.
+**Questo progetto richiederà una collaborazione senza precedenti tra le pubbliche amministrazioni e il risultato positivo permetterà all’Italia di compiere un grande salto in avanti nel processo di trasformazione digitale della Pubblica Amministrazione.**
 
-L’esecuzione di questo progetto necessita della costituzione di un team dedicato composto da circa 30 persone che abbiano competenze di sviluppo, di infrastruttura, di design e di gestione dei processi operativi, all’interno del Dipartimento per la Trasformazione Digitale della Presidenza del Consiglio (vedi sezione :doc:`09_raccomandazioni`), nonché 90 persone in supporto alle amministrazioni locali sul territorio per l’esecuzione del programma.
+**L’esecuzione di questo progetto necessita della costituzione di un team dedicato composto da circa 30 persone che abbiano competenze di sviluppo, di infrastruttura, di design e di gestione dei processi operativi, all’interno del Dipartimento per la Trasformazione Digitale della Presidenza del Consiglio (vedi sezione** :doc:`09_raccomandazioni`\ **), nonché 90 persone in supporto alle amministrazioni locali sul territorio per l’esecuzione del programma.**
 
 ..
 
@@ -61,7 +61,7 @@ L’esecuzione di questo progetto necessita della costituzione di un team dedica
 **Domicilio digitale**
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Abbiamo lavorato con Infocamere per la realizzazione del servizio che consentirà a tutti i cittadini di eleggere il proprio domicilio digitale, definendo la user experience e progettando l’interfaccia dell’applicazione web collegata al servizio. Il domicilio digitale sarà integrato all’interno di `io.italia.it <https://io.italia.it/>`_. [36]_ 
+Abbiamo lavorato con Infocamere per la realizzazione del servizio che consentirà a tutti i cittadini di eleggere il proprio domicilio digitale [36]_, definendo la user experience e progettando l’interfaccia dell’applicazione web collegata al servizio. Il domicilio digitale sarà integrato all’interno di `io.italia.it <https://io.italia.it/>`_. 
 
 ..
 

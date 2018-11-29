@@ -14,9 +14,9 @@ Il Commissario e alcuni membri del Team rappresentano l’Italia in numerosi for
 UE
 ~~~
 
-	➔ *Steering Board* per l’ `eGovernment Action Plan 2016-2020 <https://ec.europa.eu/digital-single-market/en/news/communication-eu-egovernment-action-plan-2016-2020-accelerating-digital-transformation>`_. Il Commissario straordinario e l’esperto del Team responsabile delle Relazioni Internazionali sono membri di un gruppo di lavoro previsto dallo stesso Piano (COM(2016) 179) e istituito presso la DG CNECT con il compito di coordinare e monitorare l’effettiva implementazione delle misure del Piano stesso. All’interno dello Steering Board hanno contribuito alla stesura della `Tallinn Declaration on eGovernment <https://ec.europa.eu/digital-single-market/en/news/ministerial-declaration-egovernment-tallinn-declaration>`_ e sottoscritta - per l’Italia il Commissario ha firmato in rappresentanza del Ministro della Funzione Pubblica - il 6 ottobre 2017 durante la conferenza Ministeriale dalla Presidenza di turno dell’Estonia. La nostra strategia progettuale è coerente con tutti i principi, le azioni e gli obiettivo dell’ `eGovernment Action Plan 2016-2020 <https://ec.europa.eu/digital-single-market/en/news/communication-eu-egovernment-action-plan-2016-2020-accelerating-digital-transformation>`_  e della Dichiarazione di Tallinn.
+	➔ *Steering Board* per l’\ `eGovernment Action Plan 2016-2020 <https://ec.europa.eu/digital-single-market/en/news/communication-eu-egovernment-action-plan-2016-2020-accelerating-digital-transformation>`_. Il Commissario straordinario e l’esperto del Team responsabile delle Relazioni Internazionali sono membri di un gruppo di lavoro previsto dallo stesso Piano (COM(2016) 179) e istituito presso la DG CNECT con il compito di coordinare e monitorare l’effettiva implementazione delle misure del Piano stesso. All’interno dello Steering Board hanno contribuito alla stesura della `Tallinn Declaration on eGovernment <https://ec.europa.eu/digital-single-market/en/news/ministerial-declaration-egovernment-tallinn-declaration>`_ e sottoscritta - per l’Italia il Commissario ha firmato in rappresentanza del Ministro della Funzione Pubblica - il 6 ottobre 2017 durante la conferenza Ministeriale dalla Presidenza di turno dell’Estonia. La nostra strategia progettuale è coerente con tutti i principi, le azioni e gli obiettivo dell’\ `eGovernment Action Plan 2016-2020 <https://ec.europa.eu/digital-single-market/en/news/communication-eu-egovernment-action-plan-2016-2020-accelerating-digital-transformation>`_  e della Dichiarazione di Tallinn.
 
-	➔ Il Commissario straordinario e l’esperto di Relazioni Internazionali sono inoltre componenti del *eGovernment Benchmarking Sub-Group* costituito per monitorare l’implementazione del piano stesso, in questo ambito hanno contribuito al miglioramento della metodologia e degli indicatori utilizzati nel rapporto annuale `eGovernemnt Action Plan Benchmark <https://ec.europa.eu/digital-single-market/en/news/eu-egovernment-report-2016-shows-online-public-services-improved-unevenly>`_ e nell’ `Indice dell’economia e della società digitali <https://ec.europa.eu/digital-single-market/en/desi>`_ (DESI);
+	➔ Il Commissario straordinario e l’esperto di Relazioni Internazionali sono inoltre componenti del *eGovernment Benchmarking Sub-Group* costituito per monitorare l’implementazione del piano stesso, in questo ambito hanno contribuito al miglioramento della metodologia e degli indicatori utilizzati nel rapporto annuale `eGovernemnt Action Plan Benchmark <https://ec.europa.eu/digital-single-market/en/news/eu-egovernment-report-2016-shows-online-public-services-improved-unevenly>`_ e nell’\ `Indice dell’economia e della società digitali <https://ec.europa.eu/digital-single-market/en/desi>`_ (DESI);
 	
 	➔ Il Commissario ha partecipato, insieme al Presidente del Consiglio, al `Digital Summit <https://www.eu2017.ee/political-meetings/tallinn-digital-summit>`_ ospitato dalla Presidenza estone (Tallinn, 29 settembre 2017);
 
@@ -58,14 +58,14 @@ G7
 OSCE
 ~~~~~
 
-La Presidenza italiana dell’ `OSCE <https://www.osce.org/>`_ ha inserito per la prima volta tra le sue le `priorità <https://www.osce.org/chairmanship/priorities-2018>`_  i temi del digitale e dell’innovazione. La Presidenza e il MAECI hanno richiesto formalmente la partecipazione del Commissario ai lavori preparatori e alla stesura di una Dichiarazione ministeriale sul digitale da sottoporre all’approvazione dei 57 Ministri degli Esteri degli Stati OSCE in occasione del Consiglio Ministeriale OSCE (dicembre 2018).
+La Presidenza italiana dell’ `OSCE <https://www.osce.org/>`_ ha inserito per la prima volta tra le sue `priorità <https://www.osce.org/chairmanship/priorities-2018>`_  i temi del digitale e dell’innovazione. La Presidenza e il MAECI hanno richiesto formalmente la partecipazione del Commissario ai lavori preparatori e alla stesura di una Dichiarazione ministeriale sul digitale da sottoporre all’approvazione dei 57 Ministri degli Esteri degli Stati OSCE in occasione del Consiglio Ministeriale OSCE (dicembre 2018).
 
 ..
 
 Collaborazioni bilaterali
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Abbiamo infine portato avanti una costante collaborazione bilaterale con alcuni paesi:
+Abbiamo infine portato avanti una **costante collaborazione bilaterale** con alcuni paesi:
 
 	➔ siamo stati coinvolti dall’Ambasciata del Regno Unito a Roma nel “UK-Italy Bilateral Dialogue on Digital” sui temi della digitalizzazione del settore pubblico; abbiamo avuto incontri bilaterali con il *Secretary of State*, Karen Bradley e con il Secretary of State, Matthew Hancock, e con Liam Maxwell, *National Technology Adviser at HM Government*;
 

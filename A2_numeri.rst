@@ -96,13 +96,13 @@ Questa tabella prova a riassumere alcuni numeri chiave che diano un senso dell�
       - 
       - Valore transazioni effettuate su pagoPA nel primo semestre 2018 e rispettivo incremento rispetto allo stesso periodo del 2017 [56]_ 
     * - 
-      - €205 [57]_ (+9%)
+      - €197 [57]_
       - 
-      - Valore medio transazione nel secondo trimestre 2018 e rispettivo incremento rispetto allo stesso periodo del 2017
+      - Valore medio transazione nel terzo trimestre 2018
     * - 
-      - €130 Mln (844K) / al mese
+      - €175 Mln (890K) / al mese
       - 
-      - Valore (numero) transazioni effettuate al mese nel secondo trimestre 2018 sulla piattaforma
+      - Valore (numero) transazioni effettuate al mese nel terzo trimestre 2018 sulla piattaforma
     * - 
       - 2500
       - 
@@ -116,11 +116,11 @@ Questa tabella prova a riassumere alcuni numeri chiave che diano un senso dell�
       - 
       - Identità digitali rilasciate in media a settimana nel secondo trimestre 2018, con rispettivo aumento rispetto al primo trimestre 2018 (18.200 / settimana)
     * - CIE (Dati al 30 settembre 2018)
-      - 7.500 (96%)
+      - 7.500 (94%)
       - 
       - Comuni abilitati all’emissione di CIE, con relativa percentuale di popolazione coperta 
     * - 
-      - 5.6 Mln
+      - 5.5 Mln
       - 
       - CIE emesse in totale dall’inizio del programma
     * - 
