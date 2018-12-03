@@ -34,7 +34,7 @@ L’intervento più radicale e innovativo riguarda la creazione di `io.italia.it
 **Io.italia.it**
 ~~~~~~~~~~~~~~~~~
 
-Stiamo sviluppando `io.italia.it <https://io.italia.it/>`_  un’applicazione altamente innovativa che permetterà al cittadino di ricevere messaggi, documenti e notifiche delle scadenze, chiedere informazioni e certificati, impostare le proprie preferenze e pagare la pubblica amministrazione in maniera semplice ed intuitiva [35]_.
+**Stiamo sviluppando `io.italia.it <https://io.italia.it/>`_  un’applicazione altamente innovativa che permetterà al cittadino di ricevere messaggi, documenti e notifiche delle scadenze, chiedere informazioni e certificati, impostare le proprie preferenze e pagare la pubblica amministrazione in maniera semplice ed intuitiva** [35]_.
 
 L’applicazione sarà il prodotto principale dell’integrazione delle componenti previste dal Piano Triennale, tra cui le piattaforme abilitanti SPID e pagoPA, il sistema di notifiche e documenti basato sulle API e sul modello di interoperabilità previsto dal Piano Triennale, le linee guida di design per i servizi pubblici. Incominceremo la sperimentazione del servizio ad ottobre 2018 con un numero limitato di utenti e Pubbliche Amministrazioni. Un’evoluzione dell’applicazione è l’aggiunta di un wallet digitale che permetta di ottenere e gestire accrediti dello Stato (es. contributi o rimborso delle tasse). Tutti i contributi dallo Stato al cittadino potranno essere gestiti in questo modo. Ad esempio, integrata con l’INPS, l’applicazione permetterebbe la sostituzione con una versione digitale dei voucher dei lavoratori occasionali.
 
