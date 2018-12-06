@@ -115,9 +115,9 @@ All’origine di queste problematiche, si riscontrano frequentemente le seguenti
 
 	5. *gravosità del processo di acquisto e assenza di automazione dei controlli richiesti dal codice,* con la conseguenza di tempi eccessivamente lunghi per lo svolgimento delle gare, che generano la necessità di una pianificazione molto anticipata e, inevitabilmente, inaccurata;
 
-	6. *assenza di un sistema di valutazione* dei fornitori da parte delle PA e dei servizi resi che permetta la creazione di una *knowledge* base di casi utili per poter operare in maniera informata sulle base delle scelte fatte in passato;
+	6. *assenza di un sistema di valutazione* dei fornitori da parte delle PA e dei servizi resi che permetta la creazione di una *knowledge base* di casi utili per poter operare in maniera informata sulle base delle scelte fatte in passato;
 
-	7. *uso di costi unitari fuorvianti* legati a metriche di misurazione del software (ad esempio “function point”) che misurano aspetti non rappresentativi dell’effettiva qualità del servizio e del software, in particolare per quanto riguarda i requisiti non funzionali (ad esempio facilità d’uso per l’utente) e contribuiscono ulteriormente a sbilanciare la valutazione nella direzione del ribasso economico. Dobbiamo passare dalla valutazione dell’output alla valutazione dell’outcome [44]_;
+	7. *uso di costi unitari fuorvianti* legati a metriche di misurazione del software (ad esempio “function point”) che misurano aspetti non rappresentativi dell’effettiva qualità del servizio e del software, in particolare per quanto riguarda i requisiti non funzionali (ad esempio facilità d’uso per l’utente) e contribuiscono ulteriormente a sbilanciare la valutazione nella direzione del ribasso economico. Dobbiamo passare dalla valutazione dell’*output* alla valutazione dell’*outcome* [44]_;
 
 	8. *difficoltà di intervento su gare che hanno avuto esiti imprevisti e non soddisfacenti,* tra cui per esempio prezzo e qualità della fornitura non più in linea con i livelli e gli standard di mercato. Spesso i prezzi della tecnologia diminuiscono nel tempo e la qualità standard aumenta, mentre le pubbliche amministrazioni devono pagare i prezzi più alti e tollerare livelli di qualità inferiori aggiudicati in base agli standard di anni addietro.
 
