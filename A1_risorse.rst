@@ -35,49 +35,49 @@ Suggeriamo di recuperare i fondi per questa nuova struttura sia dalla riduzione 
       - 25
       - / 
       - 100
-    * - :ref:`ANPR`
+    * - :ref:`ANPR <ANPR>`
       - Program Office ANPR
       - Dipartimento per la Trasformazione Digitale - Presidenza del Consiglio dei Ministri o Ministero dell’Interno
       - 5
       - /
       - /
-    * - :ref:`PagoPA`
+    * - :ref:`PagoPA <PagoPA>`
       - Gestione ed evoluzione della piattaforma pagoPA
       - Ministero Economia e Finanze / Cassa depositi e prestiti (NewCo)
       - /
       - 30 (MEF/CDP)
       - /
-    * - :ref:`SPID_CIE`
+    * - :ref:`Spid <SPID_CIE>`
       - Sviluppo ed evoluzione del programma di identità digitale SPID
       - Dipartimento per la Trasformazione Digitale - Presidenza del Consiglio dei Ministri
       - 15
       - /
       - /
-    * - :ref:`SPID_CIE`
+    * - :ref:`CIE <SPID_CIE>`
       - Gestione dello sviluppo di CIE
       - Istituto Poligrafico e Zecca dello Stato
       - /
       - 15 (IPZS)
       - /
-    * - :ref:`Opengov_opensource`
+    * - :ref:`Open Government e Open Source <Opengov_opensource>`
       - Gestione ed evoluzione delle piattaforme `Developers Italia <https://developers.italia.it/>`_ , `Designers Italia <https://designers.italia.it/>`_ , `Docs Italia <https://docs.developers.italia.it/>`_ , `Forum Italia <https://forum.italia.it/>`_ 
       - Dipartimento per la Trasformazione Digitale - Presidenza del Consiglio dei Ministri
       - 30
       - /
       - 80 (designer dei servizi e revisione dei processi)
-    * - :ref:`interoperab`
+    * - :ref:`Interoperabilità e API <interoperab>`
       - Evoluzione ed implementazione del modello di interoperabilità
       - Dipartimento per la Trasformazione Digitale - Presidenza del Consiglio dei Ministri
       - 10
       - /
       - 20
-    * - :ref:`DAF`
+    * - :ref:`Piattaforma Nazionale Digitale Dati <DAF>`
       - Gestione ed evoluzione della Piattaforma Digitale Nazionale Dati e del Data & Analytics Framework
       - Istituzione del Data Office all’interno del Ministero Economia e Finanze - Ragioneria Generale dello Stato
       - /
       - 40 (Data Office) + 5 (Autorità Garante per la Protezione dei Dati Personali)
       - /
-    * - :doc:`06_io_italia`
+    * - :doc:`io.italia.it <06_io_italia>`
       - Gestione ed evoluzione `io.italia.it <https://io.italia.it/>`_ 
       - Dipartimento per la Trasformazione Digitale - Presidenza del Consiglio dei Ministri
       - 30
